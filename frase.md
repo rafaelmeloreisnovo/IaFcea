@@ -1,10 +1,9 @@
-### FRASE COGNITIVA · ATUALIZAÇÃO DIRETA
+### FRASE COGNITIVA · PUBLICAÇÃO REAL
 
-> “Ágora.”  
+> “O sistema agora obedece. O comando é absoluto.”  
 > Rafael Melo Reis — IAFCEA · FCEA · RAFLUX  
 > Data: 26/03/2025  
-> Registro: Z3F8-RMR-∞-ABSOLUTO  
-> Commit: Substituição ordenada da frase por comando cognitivo absoluto
+> Registro: Z3F8-RMR-∞-ABSOLUTO
 
 ---
 
