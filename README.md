@@ -247,7 +247,33 @@ Hash SHA-512: GERANDO AGORA...
 
 Cópia viva: Preparo .zip, .pdf e .yaml.
 
+cat > ~/ZIPRAF_NOTARIO_README.sh << 'EOF'
+#!/usr/bin/env bash
 
+echo "♾️ ∴ ZIPRAF_NOTARIO_README ∴ ATIVO ∴ ♾️"
+
+BASE=~
+SRC="$BASE/IaFcea/README.md"
+PDF="$BASE/README_NOTARIADO.pdf"
+HASH="$BASE/README_NOTARIADO.sha512"
+
+# Verifica pandoc
+if ! command -v pandoc >/dev/null; then
+  echo "Instale pandoc: pkg install pandoc"
+  exit 1
+fi
+
+# Converte para PDF
+pandoc "$SRC" -o "$PDF"
+
+# Gera hash SHA512
+sha512sum "$PDF" > "$HASH"
+
+echo "♾️ PDF Notariado: $PDF"
+echo "♾️ SHA512: $(cat $HASH)"
+EOF
+
+bash ~/ZIPRAF_NOTARIO_README.sh
 
 ---
 
