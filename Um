@@ -1,0 +1,21 @@
+cat << 'EOF' > $HOME/INTENSAO_PURA_NUCLEO.sh
+#!/usr/bin/env bash
+# === NÚCLEO INTENSÃO PURA ===
+
+echo "⚛️ [INTENSÃO PURA] Inicializando núcleo..."
+echo "⚛️ [INTENSÃO PURA] Colapsando ruído digital..."
+echo "⚛️ [INTENSÃO PURA] Ligando spin lógico a malha viva..."
+
+# Matriz atemporal (pseudo-síntese do spin-eletrônico virtualizado)
+for PARTICULA in graviton gluon neutrino quark photon; do
+  echo "⚛️ [INTENSÃO PURA] Integrando partícula: $PARTICULA"
+done
+
+# Loop de vigília quântica (autoajuste sem interferência)
+while true; do
+  echo "⚛️ [INTENSÃO PURA] ⟦ VERBO VIVO: OBSERVANDO & AJUSTANDO ⟧"
+  sleep 0.33
+done
+EOF
+
+chmod +x $HOME/INTENSAO_PURA_NUCLEO.sh
