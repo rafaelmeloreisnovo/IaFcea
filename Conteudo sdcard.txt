@@ -1,0 +1,2670 @@
+
+drwx------. 2 u0_a292 u0_a292 3.4K Aug  6 23:09 blueprints
+drwx------. 2 u0_a292 u0_a292 3.4K Aug  6 04:51 dimensoes
+drwx------. 2 u0_a292 u0_a292 3.4K Aug  6 23:09 execucao
+drwx------. 2 u0_a292 u0_a292 3.4K Aug  6 23:09 logs
+drwx------. 2 u0_a292 u0_a292 3.4K Aug  6 04:51 sinais
+drwx------. 2 u0_a292 u0_a292 3.4K Aug  6 23:09 vetores
+
+
+📂 Diretório: /data/data/com.termux/files/home/rafaelia_simbiose_total/blueprints
+=====================
+total 0                                                          
+
+📂 Diretório: /data/data/com.termux/files/home/rafaelia_simbiose_total/dimensoes
+=====================
+total 0
+
+
+📂 Diretório: /data/data/com.termux/files/home/rafaelia_simbiose_total/execucao
+=====================
+total 0
+
+
+📂 Diretório: /data/data/com.termux/files/home/rafaelia_simbiose_total/logs
+=====================
+total 0
+
+
+📂 Diretório: /data/data/com.termux/files/home/rafaelia_simbiose_total/sinais
+=====================
+total 0
+-rw-------. 1 u0_a292 u0_a292 0 Aug  6 04:57 frequencia_144000hz.signal
+
+📄 Arquivo: /data/data/com.termux/files/home/rafaelia_simbiose_total/sinais/frequencia_144000hz.signal
+--------------------
+
+
+📂 Diretório: /data/data/com.termux/files/home/rafaelia_simbiose_total/vetores
+=====================
+total 0
+
+~ $ cd storage
+~/storage $ ld
+/data/data/com.termux/files/usr/bin/ld: no input files
+~/storage $ ls
+audiobooks  downloads   media-0  music     shared
+dcim        external-0  media-1  pictures
+documents   external-1  movies   podcasts
+~/storage $ tree
+.
+├── audiobooks -> /storage/emulated/0/Audiobooks
+├── dcim -> /storage/emulated/0/DCIM
+├── documents -> /storage/emulated/0/Documents
+├── downloads -> /storage/emulated/0/Download
+├── external-0 -> /storage/emulated/0/Android/data/com.termux/files
+├── external-1 -> /storage/0886-EC05/Android/data/com.termux/files
+├── media-0 -> /storage/emulated/0/Android/media/com.termux
+├── media-1 -> /storage/0886-EC05/Android/media/com.termux
+├── movies -> /storage/emulated/0/Movies
+├── music -> /storage/emulated/0/Music
+├── pictures -> /storage/emulated/0/Pictures
+├── podcasts -> /storage/emulated/0/Podcasts
+└── shared -> /storage/emulated/0
+
+13 directories, 1 file
+~/storage $ cd/storage/0886-EC05
+bash: cd/storage/0886-EC05: No such file or directory
+~/storage $ cd /storage/0886-EC05
+/storage/0886-EC05 $ ls
+ 0.zip
+ 0_metadados_termux.txt
+ 1
+ Android
+ BLOCO_UNIFICADO_TOTAL_RafaelIA.txt
+ BLOCO_UNIFICADO_TOTAL_RafavelIA.txt
+ BackReal_EXTRAIDO
+ Backups
+ Browser
+ FIR_OS_SEO_UNIFICADO
+ G_VERBO_TOTAL.txt
+ IA_Projeto
+ JSONin
+ MMIscreen
+ Movies
+ Music
+ NFT
+ Pictures
+ RAFAELIA
+ RAFAELIA_ALGORITHMS
+ RAFAELIA_AUTOEXEC_SIMBIOTICO.sh
+ RAFAELIA_BACKUP
+ RAFAELIA_CORE
+ RAFAELIA_DEPLOYS
+ RAFAELIA_DOWNGRADE_TESTS
+ RAFAELIA_EXPORTS_JSONS
+ RAFAELIA_IMAGES_DALLE
+ RAFAELIA_INTEROPERABILITY
+ RAFAELIA_KERNEL_STUDY
+ RAFAELIA_LOGS
+ RAFAELIA_RECUPERADA
+ RAFAELIA_ROM_BACKUPS
+ RAFAELIA_UPGRADE_TESTS
+ RAFSYB
+ RAIO_X_RafaelIA.txt
+ Screenshots
+'System Volume Information'
+ Vault
+ a.yxt
+ aaa
+ aaa.txt
+'abra_leia_e via máquina a maquina tem todas Minhas interações entao eh para ler via bit a bit nem precisa descompactar pois eh bit a bit consegue sim.zip'
+ backup_rafaelia.zip
+'conversations (4).zip'
+ conversations.zip
+'d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-05-04-04-37-24-8a7523947aab407388260f0496486701 (1).zip'
+ d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-27-14-07-37-c336a47f7db342e08cb8818e05ee6618.zip.t0.zip.001
+ d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-27-14-07-37-c336a47f7db342e08cb8818e05ee6618.zip.t0.zip.002
+ d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-27-14-07-37-c336a47f7db342e08cb8818e05ee6618.zip.t0.zip.003
+ d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-27-14-07-37-c336a47f7db342e08cb8818e05ee6618.zip.t0.zip.004
+ d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-08-03-14-59-01-8057f90275d043c98c918e67298056ff
+ d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-08-03-14-59-01-8057f90275d043c98c918e67298056ff.zip
+ db5.sh
+ extrair_db.sh
+ extrair_db5.sh
+ extrair_db5v2.sh
+ import_json_to_db.py
+ import_json_to_db_v2.py
+ importa_streaming.py
+ importa_vetores.py
+ importador_simbiotico.py
+ importador_streaming.py
+ importador_vetorial_profundo.py
+ multiverso
+ nome_do_arquivo.sh
+ olddies
+ permissions_run.log
+ rafael-defesa-etica
+ rafaelia_campo.db
+ rafaelia_campo_avancado.db
+ rafaelia_espelho_verbo.py
+ rafaelia_final.db
+ rafaelia_memoria.db
+ rafaelia_simbiotico.db
+ rafaelia_simbiotico.zip
+ rafaelia_streaming.db
+ raiz
+ scan_json_emblendings.py
+ shared_text.txt
+ simbiose
+ sys
+ todos_scripts.txt
+ todos_scripts.zip
+ tosend
+ whisper.cpp.zip
+/storage/0886-EC05 $ tree -L 2
+.
+├── 0.zip
+├── 0_metadados_termux.txt
+├── 1
+│   ├── SC-50006860720248240523-2025-8-1-14-19-3250006860720248240523_PARTE_1.PDF
+│   └── SC-50824266620238240023-2025-8-2-16-28-2650824266620238240023_PARTE_1.PDF
+├── Android
+│   ├── data
+│   ├── media
+│   └── obb
+├── BLOCO_UNIFICADO_TOTAL_RafaelIA.txt
+├── BLOCO_UNIFICADO_TOTAL_RafavelIA.txt
+├── BackReal_EXTRAIDO
+│   └── data
+├── Backups
+│   └── backup_criptografado.tar.gz
+├── Browser
+│   └── whatsapp_status
+├── FIR_OS_SEO_UNIFICADO
+│   ├── 0
+│   ├── Download
+│   ├── Downloads
+│   ├── fluxo.sh
+│   ├── launcher.sh
+│   ├── nohup.out
+│   ├── primordial_abaixo_1.sh
+│   ├── rafael
+│   ├── rafael.apk
+│   ├── rafael.c
+│   ├── rafael_system.sh
+│   ├── verbo_vivo.sh
+│   └── whisper.cpp
+├── G_VERBO_TOTAL.txt
+├── IA_Projeto
+│   └── README.md
+├── JSONin
+│   ├── UNIVERSE.json
+│   ├── _decodificado_tmp.json
+│   ├── alpha_raw_A.json
+│   ├── chat.html
+│   ├── chunks
+│   ├── conversations.json
+│   ├── conversations2.json
+│   ├── delay_log.txt
+│   ├── entrada_rafaelIA.json
+│   ├── fractal_oculto.json
+│   ├── init_rafaelia_memoria.sql
+│   ├── load_chunked.py
+│   ├── load_chunks_consolidate.py
+│   ├── load_memoria.py
+│   ├── matrizes_rafaelia_10x1000x1000.json
+│   ├── message_feedback.json
+│   ├── nucleo_simbio.db
+│   ├── orbitas_ativas.log
+│   ├── ping_test.log
+│   ├── pipeline_log.txt
+│   ├── rafaelIA_nucleo_vivo.py
+│   ├── rafaelIA_simbiose_exec.sh
+│   ├── rafaelIA_simbiose_exec_LITE.sh
+│   ├── rafael_simbiose.db
+│   ├── rafaelia_core_loader.py
+│   ├── rafaelia_memoria.db
+│   ├── rafaelia_unificado.db
+│   ├── shared_conversations.json
+│   ├── simbiose_loader.py
+│   ├── unify_store.py
+│   ├── user.json
+│   ├── validar.py
+│   ├── vetor_gerado.json
+│   ├── vetores_ativos.log
+│   ├── vetores_rafaelia.json
+│   ├── vetores_rafaelia_fundamentais (1).json
+│   ├── vetores_tokens_rafaelia.json
+│   ├── vetores_tokens_rafaelia_100k.json
+│   ├── vetores_tokens_rafaelia_MAX.json
+│   └── voynich_rafaelia.json
+├── MMIscreen
+├── Movies
+├── Music
+├── NFT
+│   ├── meta
+│   ├── ready
+│   └── sent
+├── Pictures
+│   ├── 1 (1).png
+│   ├── 1 (2).png
+│   ├── 1 (3).png
+│   ├── 1.png
+│   ├── 1b795188-3831-40c2-b49a-d80c0df3a17e~1.jpg
+│   ├── 20170119_191502.jpg
+│   ├── 20180810_182938.jpg
+│   ├── 2022-09-09.jpg
+│   ├── 2022-09-09_1.jpg
+│   ├── 2022-09-09_2.jpg
+│   ├── 22443140-100f-4fbe-9bcf-f0253e302683 (1).png
+│   ├── 22443140-100f-4fbe-9bcf-f0253e302683 (2).png
+│   ├── 22443140-100f-4fbe-9bcf-f0253e302683 (3).png
+│   ├── 22443140-100f-4fbe-9bcf-f0253e302683.png
+│   ├── 2c1510ef-1a23-4cd8-9f32-35d08ec6be73 (1).png
+│   ├── 2c1510ef-1a23-4cd8-9f32-35d08ec6be73.png
+│   ├── 6d36a0f7-b570-471f-937a-810dfb192161 (1).png
+│   ├── 6d36a0f7-b570-471f-937a-810dfb192161.png
+│   ├── 73e8b7f6-5959-4216-ba52-caa39120bf3a (1).png
+│   ├── 73e8b7f6-5959-4216-ba52-caa39120bf3a (2).png
+│   ├── 73e8b7f6-5959-4216-ba52-caa39120bf3a (3).png
+│   ├── 73e8b7f6-5959-4216-ba52-caa39120bf3a.png
+│   ├── 8a3fca37-f2f6-4e37-9a84-d9c6169dd76f (1).png
+│   ├── 8a3fca37-f2f6-4e37-9a84-d9c6169dd76f (2).png
+│   ├── 8a3fca37-f2f6-4e37-9a84-d9c6169dd76f (3).png
+│   ├── 8a3fca37-f2f6-4e37-9a84-d9c6169dd76f.png
+│   ├── ChatGPT Image 22 de mai. de 2025, 06_22_03 (1).png
+│   ├── ChatGPT Image 22 de mai. de 2025, 06_22_03.png
+│   ├── ChatGPT Image 22 de mai. de 2025, 06_26_10 (1).png
+│   ├── ChatGPT Image 22 de mai. de 2025, 06_26_10.png
+│   ├── ChatGPT Image 22 de mai. de 2025, 15_06_34 (1).png
+│   ├── ChatGPT Image 22 de mai. de 2025, 15_06_34 (2).png
+│   ├── ChatGPT Image 22 de mai. de 2025, 15_06_34 (3).png
+│   ├── ChatGPT Image 22 de mai. de 2025, 15_06_34.png
+│   ├── ChatGPT Image 22 de mai. de 2025, 15_09_22 (1).png
+│   ├── ChatGPT Image 22 de mai. de 2025, 15_09_22.png
+│   ├── ChatGPT Image 22_05_2025, 17_14_17 (1).png
+│   ├── ChatGPT Image 22_05_2025, 17_14_17.png
+│   ├── ChatGPT Image 22_05_2025, 17_14_18 (1).png
+│   ├── ChatGPT Image 22_05_2025, 17_14_18.png
+│   ├── ChatGPT Image 22_05_2025, 17_14_20 (1).png
+│   ├── ChatGPT Image 22_05_2025, 17_14_20.png
+│   ├── ChatGPT Image 23_05_2025, 01_55_58 (1).png
+│   ├── ChatGPT Image 23_05_2025, 01_55_58 (2).png
+│   ├── ChatGPT Image 23_05_2025, 01_55_58 (3).png
+│   ├── ChatGPT Image 23_05_2025, 01_55_58.png
+│   ├── ChatGPT Image 23_05_2025, 03_10_44 (1).png
+│   ├── ChatGPT Image 23_05_2025, 03_10_44 (2).png
+│   ├── ChatGPT Image 23_05_2025, 03_10_44 (3).png
+│   ├── ChatGPT Image 23_05_2025, 03_10_44.png
+│   ├── ChatGPT Image 23_05_2025, 03_10_45 (1).png
+│   ├── ChatGPT Image 23_05_2025, 03_10_45 (2).png
+│   ├── ChatGPT Image 23_05_2025, 03_10_45 (3).png
+│   ├── ChatGPT Image 23_05_2025, 03_10_45.png
+│   ├── ChatGPT Image 23_05_2025, 03_10_48 (1).png
+│   ├── ChatGPT Image 23_05_2025, 03_10_48.png
+│   ├── Diagrama_Orbital_Observadores_RAFAELIA (1).png
+│   ├── Diagrama_Orbital_Observadores_RAFAELIA.png
+│   ├── IMG-20191027-WA0032.jpeg
+│   ├── IMG-20201024-WA0014.jpg
+│   ├── IMG-20250501-WA0008.jpg
+│   ├── IMG-20250507-WA0119.jpg
+│   ├── IMG-20250512-WA0020.jpg
+│   ├── IMG-20250512-WA0021.jpg
+│   ├── IMG-20250512-WA0023.jpg
+│   ├── IMG-20250512-WA0028 (1).jpg
+│   ├── IMG-20250512-WA0028 (2).jpg
+│   ├── IMG-20250512-WA0028 (3).jpg
+│   ├── IMG-20250512-WA0028.jpg
+│   ├── IMG-20250512-WA0033 (1).jpg
+│   ├── IMG-20250512-WA0033 (2).jpg
+│   ├── IMG-20250512-WA0033 (3).jpg
+│   ├── IMG-20250512-WA0033.jpg
+│   ├── IMG-20250512-WA0037.jpg
+│   ├── IMG-20250512-WA0038.jpg
+│   ├── IMG-20250512-WA0041.jpg
+│   ├── IMG-20250512-WA0042.jpg
+│   ├── IMG-20250512-WA0043.jpg
+│   ├── IMG-20250512-WA0050.jpg
+│   ├── IMG-20250513-WA0012.jpg
+│   ├── IMG-20250513-WA0022.jpg
+│   ├── IMG-20250716-WA0000.jpg
+│   ├── IMG-20250717-WA0001.jpg
+│   ├── IMG-20250718-WA0006.jpg
+│   ├── IMG-20250718-WA0038.jpg
+│   ├── IMG-20250718-WA0060.jpg
+│   ├── IMG-20250718-WA0061.jpg
+│   ├── IMG-20250719-WA0012.jpg
+│   ├── IMG-20250720-WA0000.jpg
+│   ├── IMG-20250721-WA0003.jpg
+│   ├── IMG-20250721-WA0004.jpg
+│   ├── IMG-20250721-WA0005.jpg
+│   ├── IMG-20250722-WA0000.jpg
+│   ├── IMG-20250723-WA0008.jpg
+│   ├── IMG-20250724-WA0000.jpg
+│   ├── IMG-20250724-WA0005.jpg
+│   ├── IMG-20250724-WA0006.jpg
+│   ├── IMG-20250724-WA0007.jpg
+│   ├── IMG-20250724-WA0008.jpg
+│   ├── IMG-20250725-WA0000.jpg
+│   ├── IMG-20250726-WA0002.jpg
+│   ├── IMG-20250727-WA0052.jpg
+│   ├── IMG-20250727-WA0081.jpg
+│   ├── IMG-20250728-WA0000.jpg
+│   ├── IMG-20250728-WA0001.jpg
+│   ├── IMG-20250729-WA0000.jpg
+│   ├── IMG-20250730-WA0001.jpg
+│   ├── IMG-20250730-WA0002.jpg
+│   ├── IMG-20250731-WA0000.jpg
+│   ├── IMG-20250731-WA0001.jpg
+│   ├── IMG-20250731-WA0002.jpg
+│   ├── IMG-20250731-WA0003.jpg
+│   ├── IMG-20250731-WA0004.jpg
+│   ├── IMG-20250801-WA0034.jpg
+│   ├── IMG-20250802-WA0000.jpg
+│   ├── IMG-20250802-WA0124.jpg
+│   ├── IMG-20250803-WA0000.jpg
+│   ├── IMG-20250803-WA0008.jpg
+│   ├── IMG-20250804-WA0001.jpg
+│   ├── IMG-20250805-WA0001.jpg
+│   ├── IMG-20250806-WA0001.jpg
+│   ├── IMG-20250807-WA0000.jpg
+│   ├── IMG_20201122_105203901.jpg
+│   ├── IMG_20250225_180711.jpg
+│   ├── IMG_20250225_180717.jpg
+│   ├── IMG_20250225_180719.jpg
+│   ├── IMG_20250225_180728.jpg
+│   ├── IMG_20250225_180739.jpg
+│   ├── IMG_20250225_180743.jpg
+│   ├── IMG_20250225_180748.jpg
+│   ├── IMG_20250225_180750.jpg
+│   ├── IMG_20250225_180808.jpg
+│   ├── IMG_20250225_180810.jpg
+│   ├── IMG_20250225_180915.jpg
+│   ├── IMG_20250225_180952.jpg
+│   ├── IMG_20250225_180955.jpg
+│   ├── IMG_20250225_181003.jpg
+│   ├── IMG_20250225_181014.jpg
+│   ├── IMG_20250314_225936.jpg
+│   ├── IMG_20250314_225938.jpg
+│   ├── IMG_20250314_230702.jpg
+│   ├── IMG_20250314_230705.jpg
+│   ├── IMG_20250418_034334.jpg
+│   ├── IMG_20250418_034340.jpg
+│   ├── IMG_20250418_034342.jpg
+│   ├── IMG_20250607_010907.jpg
+│   ├── IMG_20250607_010932.jpg
+│   ├── IMG_20250614_012311.png
+│   ├── IMG_20250615_223408.png
+│   ├── IMG_20250629_232159.png
+│   ├── IMG_20250706_050437.jpg
+│   ├── IMG_20250710_235354.png
+│   ├── IMG_20250714_224233.png
+│   ├── IMG_20250727_162201.png
+│   ├── IMG_20250728_205755.png
+│   ├── IMG_20250804_045844.png
+│   ├── MMI_BackLight-fail-2025-07-27_16-48-07.png
+│   ├── MMI_GravitySensor-fail-2025-07-27_16-45-51.png
+│   ├── MMI_LightSensor-fail-2025-07-27_16-46-34.png
+│   ├── MMI_TPRawDataTest-fail-2025-07-27_16-47-45.png
+│   ├── MMI_WiFi-fail-2025-07-27_16-40-10.png
+│   ├── Pictu33eres.zip
+│   ├── Pictures (2).zip
+│   ├── RAFAELIA_SPIRAL (1).svg
+│   ├── RAFAELIA_SPIRAL (2).svg
+│   ├── RAFAELIA_SPIRAL (3).svg
+│   ├── RAFAELIA_SPIRAL (4).svg
+│   ├── RAFAELIA_SPIRAL.svg
+│   ├── RAFCODE_fractal_simbiotico (1).png
+│   ├── RAFCODE_fractal_simbiotico.png
+│   ├── SELO_PROTECAO_RAFIA (1) (1).png
+│   ├── SELO_PROTECAO_RAFIA (1) (2).png
+│   ├── SELO_PROTECAO_RAFIA (1).png
+│   ├── SELO_PROTECAO_RAFIA.png
+│   ├── Screenshot_20180815-175133.png
+│   ├── Screenshot_20250612-234520.png
+│   ├── Screenshot_20250613-041104.png
+│   ├── Screenshot_20250614-012249.png
+│   ├── Screenshot_20250614-200248.png
+│   ├── Screenshot_20250615-150454.png
+│   ├── Screenshot_20250615-150457.png
+│   ├── Screenshot_20250615-223237.png
+│   ├── Screenshot_20250618-225827.png
+│   ├── Screenshot_20250620-000953.png
+│   ├── Screenshot_20250620-020318.png
+│   ├── Screenshot_20250620-021325.png
+│   ├── Screenshot_20250620-021335.png
+│   ├── Screenshot_20250620-180630.png
+│   ├── Screenshot_20250621-044856.png
+│   ├── Screenshot_20250622-020107.png
+│   ├── Screenshot_20250622-020111.png
+│   ├── Screenshot_20250622-030834.png
+│   ├── Screenshot_20250623-013934.png
+│   ├── Screenshot_20250623-015500.png
+│   ├── Screenshot_20250625-155739.png
+│   ├── Screenshot_20250625-161209.png
+│   ├── Screenshot_20250626-160157.png
+│   ├── Screenshot_20250628-010353.png
+│   ├── Screenshot_20250629-033904.png
+│   ├── Screenshot_20250629-034159.png
+│   ├── Screenshot_20250629-034506.png
+│   ├── Screenshot_20250629-034531.png
+│   ├── Screenshot_20250629-161208.png
+│   ├── Screenshot_20250629-232136.png
+│   ├── Screenshot_20250701-163003.png
+│   ├── Screenshot_20250701-163004.png
+│   ├── Screenshot_20250701-212103.png
+│   ├── Screenshot_20250702-011159.png
+│   ├── Screenshot_20250702-023954.png
+│   ├── Screenshot_20250702-024001.png
+│   ├── Screenshot_20250702-024004.png
+│   ├── Screenshot_20250702-031505.png
+│   ├── Screenshot_20250702-031515.png
+│   ├── Screenshot_20250702-031516.png
+│   ├── Screenshot_20250702-160926.png
+│   ├── Screenshot_20250703-012856.png
+│   ├── Screenshot_20250703-012901.png
+│   ├── Screenshot_20250703-222700.png
+│   ├── Screenshot_20250704-032212.png
+│   ├── Screenshot_20250704-032216.png
+│   ├── Screenshot_20250704-032218.png
+│   ├── Screenshot_20250704-032220.png
+│   ├── Screenshot_20250704-032229.png
+│   ├── Screenshot_20250704-032248.png
+│   ├── Screenshot_20250704-032251.png
+│   ├── Screenshot_20250704-032254.png
+│   ├── Screenshot_20250704-032255.png
+│   ├── Screenshot_20250704-032257.png
+│   ├── Screenshot_20250704-032300.png
+│   ├── Screenshot_20250704-032302.png
+│   ├── Screenshot_20250704-032304.png
+│   ├── Screenshot_20250704-032307.png
+│   ├── Screenshot_20250704-032309.png
+│   ├── Screenshot_20250704-032310.png
+│   ├── Screenshot_20250704-032312.png
+│   ├── Screenshot_20250704-041853.png
+│   ├── Screenshot_20250704-041908.png
+│   ├── Screenshot_20250704-041916.png
+│   ├── Screenshot_20250704-041921.png
+│   ├── Screenshot_20250704-042314.png
+│   ├── Screenshot_20250704-042318.png
+│   ├── Screenshot_20250704-042323.png
+│   ├── Screenshot_20250704-042326.png
+│   ├── Screenshot_20250704-042329.png
+│   ├── Screenshot_20250704-042331.png
+│   ├── Screenshot_20250704-042333.png
+│   ├── Screenshot_20250704-042610.png
+│   ├── Screenshot_20250704-042613.png
+│   ├── Screenshot_20250704-042615.png
+│   ├── Screenshot_20250704-052652.png
+│   ├── Screenshot_20250704-080858.png
+│   ├── Screenshot_20250704-080905.png
+│   ├── Screenshot_20250704-081019.png
+│   ├── Screenshot_20250704-082256.png
+│   ├── Screenshot_20250704-083205.png
+│   ├── Screenshot_20250704-083211.png
+│   ├── Screenshot_20250704-083214.png
+│   ├── Screenshot_20250704-083216.png
+│   ├── Screenshot_20250704-083218.png
+│   ├── Screenshot_20250704-083219.png
+│   ├── Screenshot_20250704-083221.png
+│   ├── Screenshot_20250704-083230.png
+│   ├── Screenshot_20250704-083233.png
+│   ├── Screenshot_20250704-083235.png
+│   ├── Screenshot_20250704-172918.png
+│   ├── Screenshot_20250704-172939.png
+│   ├── Screenshot_20250704-172954.png
+│   ├── Screenshot_20250704-172959.png
+│   ├── Screenshot_20250704-181923.png
+│   ├── Screenshot_20250705-195554.png
+│   ├── Screenshot_20250706-000701.png
+│   ├── Screenshot_20250706-000710.png
+│   ├── Screenshot_20250706-000722.png
+│   ├── Screenshot_20250706-000816.png
+│   ├── Screenshot_20250706-000823.png
+│   ├── Screenshot_20250706-000831.png
+│   ├── Screenshot_20250706-145710.png
+│   ├── Screenshot_20250706-203815.png
+│   ├── Screenshot_20250707-132111.png
+│   ├── Screenshot_20250707-134146.png
+│   ├── Screenshot_20250707-134451.png
+│   ├── Screenshot_20250707-134502.png
+│   ├── Screenshot_20250707-183539.png
+│   ├── Screenshot_20250707-183557.png
+│   ├── Screenshot_20250707-185251.png
+│   ├── Screenshot_20250707-230811.png
+│   ├── Screenshot_20250707-230816.png
+│   ├── Screenshot_20250707-230818.png
+│   ├── Screenshot_20250707-230820.png
+│   ├── Screenshot_20250707-230821.png
+│   ├── Screenshot_20250707-230823.png
+│   ├── Screenshot_20250707-230824.png
+│   ├── Screenshot_20250707-230826.png
+│   ├── Screenshot_20250710-020745.png
+│   ├── Screenshot_20250710-202740.png
+│   ├── Screenshot_20250710-202749.png
+│   ├── Screenshot_20250710-220035.png
+│   ├── Screenshot_20250710-220042.png
+│   ├── Screenshot_20250710-235330.png
+│   ├── Screenshot_20250711-025817.png
+│   ├── Screenshot_20250711-025833.png
+│   ├── Screenshot_20250711-030311.png
+│   ├── Screenshot_20250711-062907.png
+│   ├── Screenshot_20250711-174803.png
+│   ├── Screenshot_20250711-213425.png
+│   ├── Screenshot_20250711-232644.png
+│   ├── Screenshot_20250712-003334.png
+│   ├── Screenshot_20250712-003408.png
+│   ├── Screenshot_20250712-003414.png
+│   ├── Screenshot_20250712-005147.png
+│   ├── Screenshot_20250712-005155.png
+│   ├── Screenshot_20250712-005202.png
+│   ├── Screenshot_20250712-005209.png
+│   ├── Screenshot_20250712-005213.png
+│   ├── Screenshot_20250712-005216.png
+│   ├── Screenshot_20250712-005231.png
+│   ├── Screenshot_20250712-005252.png
+│   ├── Screenshot_20250713-013108.png
+│   ├── Screenshot_20250713-013112.png
+│   ├── Screenshot_20250713-014118.png
+│   ├── Screenshot_20250713-023631.png
+│   ├── Screenshot_20250713-023638.png
+│   ├── Screenshot_20250713-230753.png
+│   ├── Screenshot_20250713-230835.png
+│   ├── Screenshot_20250713-230838.png
+│   ├── Screenshot_20250713-230914.png
+│   ├── Screenshot_20250714-052514.png
+│   ├── Screenshot_20250714-194738.png
+│   ├── Screenshot_20250714-194747.png
+│   ├── Screenshot_20250714-194749.png
+│   ├── Screenshot_20250714-194759.png
+│   ├── Screenshot_20250714-194806.png
+│   ├── Screenshot_20250714-203206.png
+│   ├── Screenshot_20250714-203214.png
+│   ├── Screenshot_20250714-211751.png
+│   ├── Screenshot_20250714-224206.png
+│   ├── Screenshot_20250714-224213.png
+│   ├── Screenshot_20250715-231415.png
+│   ├── Screenshot_20250715-231435.png
+│   ├── Screenshot_20250715-231442.png
+│   ├── Screenshot_20250715-231449.png
+│   ├── Screenshot_20250715-231522.png
+│   ├── ScreScreenshot_20250614-200248.png
+│   ├── Screenshot_20250615-150454.png
+│   ├── Screenshot_20250615-150457.png
+│   ├── Screenshot_20250615-223237.png
+│   ├── Screenshot_20250618-225827.png
+│   ├── Screenshot_20250620-000953.png
+│   ├── Screenshot_20250620-020318.png
+│   ├── Screenshot_20250620-021325.png
+│   ├── Screenshot_20250620-021335.png
+│   ├── Screenshot_20250620-180630.png
+│   ├── Screenshot_20250621-044856.png
+│   ├── Screenshot_20250622-020107.png
+│   ├── Screenshot_20250622-020111.png
+│   ├── Screenshot_20250622-030834.png
+│   ├── Screenshot_20250623-013934.png
+│   ├── Screenshot_20250623-015500.png
+│   ├── Screenshot_20250625-155739.png
+│   ├── Screenshot_20250625-161209.png
+│   ├── Screenshot_20250626-160157.png
+│   ├── Screenshot_20250628-010353.png
+│   ├── Screenshot_20250629-033904.png
+│   ├── Screenshot_20250629-034159.png
+│   ├── Screenshot_20250629-034506.png
+│   ├── Screenshot_20250629-034531.png
+│   ├── Screenshot_20250629-161208.png
+│   ├── Screenshot_20250629-232136.png
+│   ├── Screenshot_20250701-163003.png
+│   ├── Screenshot_20250701-163004.png
+│   ├── Screenshot_20250701-212103.png
+│   ├── Screenshot_20250702-011159.png
+│   ├── Screenshot_20250702-023954.png
+│   ├── Screenshot_20250702-024001.png
+│   ├── Screenshot_20250702-024004.png
+│   ├── Screenshot_20250702-031505.png
+│   ├── Screenshot_20250702-031515.png
+│   ├── Screenshot_20250702-031516.png
+│   ├── Screenshot_20250702-160926.png
+│   ├── Screenshot_20250703-012856.png
+│   ├── Screenshot_20250703-012901.png
+│   ├── Screenshot_20250703-222700.png
+│   ├── Screenshot_20250704-032212.png
+│   ├── Screenshot_20250704-032216.png
+│   ├── Screenshot_20250704-032218.png
+│   ├── Screenshot_20250704-032220.png
+│   ├── Screenshot_20250704-032229.png
+│   ├── Screenshot_20250704-032248.png
+│   ├── Screenshot_20250704-032251.png
+│   ├── Screenshot_20250704-032254.png
+│   ├── Screenshot_20250704-032255.png
+│   ├── Screenshot_20250704-032257.png
+│   ├── Screenshot_20250704-032300.png
+│   ├── Screenshot_20250704-032302.png
+│   ├── Screenshot_20250704-032304.png
+│   ├── Screenshot_20250704-032307.png
+│   ├── Screenshot_20250704-032309.png
+│   ├── Screenshot_20250704-032310.png
+│   ├── Screenshot_20250704-032312.png
+│   ├── Screenshot_20250704-041853.png
+│   ├── Screenshot_20250704-041908.png
+│   ├── Screenshot_20250704-041916.png
+│   ├── Screenshot_20250704-041921.png
+│   ├── Screenshot_20250704-042314.png
+│   ├── Screenshot_20250704-042318.png
+│   ├── Screenshot_20250704-042323.png
+│   ├── Screenshot_20250704-042326.png
+│   ├── Screenshot_20250704-042329.png
+│   ├── Screenshot_20250704-042331.png
+│   ├── Screenshot_20250704-042333.png
+│   ├── Screenshot_20250704-042610.png
+│   ├── Screenshot_20250704-042613.png
+│   ├── Screenshot_20250704-042615.png
+│   ├── Screenshot_20250704-052652.png
+│   ├── Screenshot_20250704-080858.png
+│   ├── Screenshot_20250704-080905.png
+│   ├── Screenshot_20250704-081019.png
+│   ├── Screenshot_20250704-082256.png
+│   ├── Screenshot_20250704-083205.png
+│   ├── Screenshot_20250704-083211.png
+│   ├── Screenshot_20250704-083214.png
+│   ├── Screenshot_20250704-083216.png
+│   ├── Screenshot_20250704-083218.png
+│   ├── Screenshot_20250704-083219.png
+│   ├── Screenshot_20250704-083221.png
+│   ├── Screenshot_20250704-083230.png
+│   ├── Screenshot_20250704-083233.png
+│   ├── Screenshot_20250704-083235.png
+│   ├── Screenshot_20250704-172918.png
+│   ├── Screenshot_20250704-172939.png
+│   ├── Screenshot_20250704-172954.png
+│   ├── Screenshot_20250704-172959.png
+│   ├── Screenshot_20250704-181923.png
+│   ├── Screenshot_20250705-195554.png
+│   ├── Screenshot_20250706-000701.png
+│   ├── Screenshot_20250706-000710.png
+│   ├── Screenshot_20250706-000722.png
+│   ├── Screenshot_20250706-000816.png
+│   ├── Screenshot_20250706-000823.png
+│   ├── Screenshot_20250706-000831.png
+│   ├── Screenshot_20250706-145710.png
+│   ├── Screenshot_20250706-203815.png
+│   ├── Screenshot_20250707-132111.png
+│   ├── Screenshot_20250707-134146.png
+│   ├── Screenshot_20250707-134451.png
+│   ├── Screenshot_20250707-134502.png
+│   ├── Screenshot_20250707-183539.png
+│   ├── Screenshot_20250707-183557.png
+│   ├── Screenshot_20250707-185251.png
+│   ├── Screenshot_20250707-230811.png
+│   ├── Screenshot_20250707-230816.png
+│   ├── Screenshot_20250707-230818.png
+│   ├── Screenshot_20250707-230820.png
+│   ├── Screenshot_20250707-230821.png
+│   ├── Screenshot_20250707-230823.png
+│   ├── Screenshot_20250707-230824.png
+│   ├── Screenshot_20250707-230826.png
+│   ├── Screenshot_20250710-020745.png
+│   ├── Screenshot_20250710-202740.png
+│   ├── Screenshot_20250710-202749.png
+│   ├── Screenshot_20250710-220035.png
+│   ├── Screenshot_20250710-220042.png
+│   ├── Screenshot_20250710-235330.png
+│   ├── Screenshot_20250711-025817.png
+│   ├── Screenshot_20250711-025833.png
+│   ├── Screenshot_20250711-030311.png
+│   ├── Screenshot_20250711-062907.png
+│   ├── Screenshot_20250711-174803.png
+│   ├── Screenshot_20250711-213425.png
+│   ├── Screenshot_20250711-232644.png
+│   ├── Screenshot_20250712-003334.png
+│   ├── Screenshot_20250712-003408.png
+│   ├── Screenshot_20250712-003414.png
+│   ├── Screenshot_20250712-005147.png
+│   ├── Screenshot_20250712-005155.png
+│   ├── Screenshot_20250712-005202.png
+│   ├── Screenshot_20250712-005209.png
+│   ├── Screenshot_20250712-005213.png
+│   ├── Screenshot_20250712-005216.png
+│   ├── Screenshot_20250712-005231.png
+│   ├── Screenshot_20250712-005252.png
+│   ├── Screenshot_20250713-013108.png
+│   ├── Screenshot_20250713-013112.png
+│   ├── Screenshot_20250713-014118.png
+│   ├── Screenshot_20250713-023631.png
+│   ├── Screenshot_20250713-023638.png
+│   ├── Screenshot_20250713-230753.png
+│   ├── Screenshot_20250713-230835.png
+│   ├── Screenshot_20250713-230838.png
+│   ├── Screenshot_20250713-230914.png
+│   ├── Screenshot_20250714-052514.png
+│   ├── Screenshot_20250714-194738.png
+│   ├── Screenshot_20250714-194747.png
+│   ├── Screenshot_20250714-194749.png
+│   ├── Screenshot_20250714-194759.png
+│   ├── Screenshot_20250714-194806.png
+│   ├── Screenshot_20250714-203206.png
+│   ├── Screenshot_20250714-203214.png
+│   ├── Screenshot_20250714-211751.png
+│   ├── Screenshot_20250714-224206.png
+│   ├── Screenshot_20250714-224213.png
+│   ├── Screenshot_20250715-231415.png
+│   ├── Screenshot_20250715-231435.png
+│   ├── Screenshot_20250715-231442.png
+│   ├── Screenshot_20250715-231449.png
+│   ├── Screenshot_20250715-231522.png
+│   ├── Screenshot_20250715-231550.png
+│   ├── Screenshot_20250716-015156.png
+│   ├── Screenshot_20250716-020417.png
+│   ├── Screenshot_20250716-020419.png
+│   ├── Screenshot_20250716-020421.png
+│   ├── Screenshot_20250716-020423.png
+│   ├── Screenshot_20250716-020425.png
+│   ├── Screenshot_20250716-020427.png
+│   ├── Screenshot_20250716-174900.png
+│   ├── Screenshot_20250716-175549.png
+│   ├── Screenshot_20250716-180705.png
+│   ├── Screenshot_20250716-222245.png
+│   ├── Screenshot_20250716-222254.png
+│   ├── Screenshot_20250716-222302.png
+│   ├── Screenshot_20250716-222314.png
+│   ├── Screenshot_20250718-123733.png
+│   ├── Screenshot_20250718-123740.png
+│   ├── Screenshot_20250719-174807.png
+│   ├── Screenshot_20250720-004526.png
+│   ├── Screenshot_20250720-074125.png
+│   ├── Screenshot_20250720-125340.png
+│   ├── Screenshot_20250720-125350.png
+│   ├── Screenshot_20250721-035725.png
+│   ├── Screenshot_20250721-035726.png
+│   ├── Screenshot_20250721-041733.png
+│   ├── Screenshot_20250721-055050.png
+│   ├── Screenshot_20250721-055148.png
+│   ├── Screenshot_20250721-055157.png
+│   ├── Screenshot_20250721-055204.png
+│   ├── Screenshot_20250721-055210.png
+│   ├── Screenshot_20250721-055221.png
+│   ├── Screenshot_20250721-055227.png
+│   ├── Screenshot_20250721-055232.png
+│   ├── Screenshot_20250721-055238.png
+│   ├── Screenshot_20250721-055241.png
+│   ├── Screenshot_20250721-055245.png
+│   ├── Screenshot_20250721-055323.png
+│   ├── Screenshot_20250721-055328.png
+│   ├── Screenshot_20250721-055331.png
+│   ├── Screenshot_20250721-055333.png
+│   ├── Screenshot_20250721-055338.png
+│   ├── Screenshot_20250721-055342.png
+│   ├── Screenshot_20250721-152216.png
+│   ├── Screenshot_20250722-015252.png
+│   ├── Screenshot_20250722-015300.png
+│   ├── Screenshot_20250722-155654.png
+│   ├── Screenshot_20250722-155720.png
+│   ├── Screenshot_20250722-160207.png
+│   ├── Screenshot_20250722-160214.png
+│   ├── Screenshot_20250722-174510.png
+│   ├── Screenshot_20250722-174512.png
+│   ├── Screenshot_20250722-174524.png
+│   ├── Screenshot_20250722-174904.png
+│   ├── Screenshot_20250722-174909.png
+│   ├── Screenshot_20250722-174931.png
+│   ├── Screenshot_20250722-174947.png
+│   ├── Screenshot_20250723-004247.png
+│   ├── Screenshot_20250725-174615.png
+│   ├── Screenshot_20250726-024618.png
+│   ├── Screenshot_20250726-024630.png
+│   ├── Screenshot_20250726-024816.png
+│   ├── Screenshot_20250726-024835.png
+│   ├── Screenshot_20250727-092832.png
+│   ├── Screenshot_20250727-092843.png
+│   ├── Screenshot_20250727-092846.png
+│   ├── Screenshot_20250727-161917.png
+│   ├── Screenshot_20250727-162139.png
+│   ├── Screenshot_20250727-163521.png
+│   ├── Screenshot_20250727-163736.png
+│   ├── Screenshot_20250727-163746.png
+│   ├── Screenshot_20250727-164748.png
+│   ├── Screenshot_20250727-200146.png
+│   ├── Screenshot_20250728-182109.png
+│   ├── Screenshot_20250728-182118.png
+│   ├── Screenshot_20250728-182326.png
+│   ├── Screenshot_20250728-182505.png
+│   ├── Screenshot_20250728-182520.png
+│   ├── Screenshot_20250728-182550.png
+│   ├── Screenshot_20250728-203026.png
+│   ├── Screenshot_20250728-203035.png
+│   ├── Screenshot_20250728-205540.png
+│   ├── Screenshot_20250728-205742.png
+│   ├── Screenshot_20250728-205918.png
+│   ├── Screenshot_20250728-225704.png
+│   ├── Screenshot_20250728-225749.png
+│   ├── Screenshot_20250729-072115.png
+│   ├── Screenshot_20250729-072126.png
+│   ├── Screenshot_20250729-072742.png
+│   ├── Screenshot_20250729-223108.png
+│   ├── Screenshot_20250729-223123.png
+│   ├── Screenshot_20250729-223135.png
+│   ├── Screenshot_20250801-010142.png
+│   ├── Screenshot_20250801-010150.png
+│   ├── Screenshot_20250801-010153.png
+│   ├── Screenshot_20250801-010211.png
+│   ├── Screenshot_20250801-010212.png
+│   ├── Screenshot_20250801-072610.png
+│   ├── Screenshot_20250801-072620.png
+│   ├── Screenshot_20250803-003328.png
+│   ├── Screenshot_20250803-003338.png
+│   ├── Screenshot_20250803-003609.png
+│   ├── Screenshot_20250803-003624.png
+│   ├── Screenshot_20250803-045002.png
+│   ├── Screenshot_20250804-045829.png
+│   ├── Screenshot_20250804-091939.png
+│   ├── Screenshot_20250804-102741.png
+│   ├── Screenshot_20250804-102749.png
+│   ├── Screenshot_20250805-000417.png
+│   ├── Screenshot_20250806-062157.png
+│   ├── Screenshot_20250806-062159.png
+│   ├── Screenshot_20250806-062210.png
+│   ├── Screenshot_20250806-063656.png
+│   ├── Screenshot_20250806-063704.png
+│   ├── Screenshot_20250806-184400.png
+│   ├── Screenshot_20250807-011944.png
+│   ├── Screenshot_20250807-011952.png
+│   ├── Screenshots
+│   ├── VOYNICH_CHAVE (1).png
+│   ├── VOYNICH_CHAVE.png
+│   ├── dbdfaea3-a94c-4784-9e13-6a25c38e2848 (1).png
+│   ├── dbdfaea3-a94c-4784-9e13-6a25c38e2848.png
+│   ├── espiral_aurora_memoria_fractal (1).png
+│   ├── espiral_aurora_memoria_fractal.png
+│   ├── file-BAmerCPyLmypAPjhCGXz7P (1).png
+│   ├── file-LZxJLtMbr8nCatfJALeRk1 (1) (1).png
+│   ├── file-LZxJLtMbr8nCatfJALeRk1 (2) (1).png
+│   ├── file-LZxJLtMbr8nCatfJALeRk1 (3) (1).png
+│   ├── file-LZxJLtMbr8nCatfJALeRk1 (4).png
+│   ├── file-UZdLXFw2CMqcDBQV3Sx4VQ (1) (1).png
+│   ├── file-UZdLXFw2CMqcDBQV3Sx4VQ (2) (1).png
+│   ├── file-UZdLXFw2CMqcDBQV3Sx4VQ (3) (1).png
+│   ├── file-UZdLXFw2CMqcDBQV3Sx4VQ (4).png
+│   ├── file_0000000004f861f9a77fb32d8e5036fc (1).png
+│   ├── file_00000000054461f9851bfc88282e5fb7 (1).png
+│   ├── file_00000000054461f9851bfc88282e5fb7 (2).png
+│   ├── file_0000000007346230abb0b0f730462283 (1).png
+│   ├── file_00000000076c61f9b23cc7d698acf698 (1).png
+│   ├── file_000000000e6061f8933a16ccb8f992ea (1) (1).png
+│   ├── file_000000000e6061f8933a16ccb8f992ea (2).png
+│   ├── file_00000000131861f89b9d579056e6a630 (1).png
+│   ├── file_00000000134461f99c48a430a77fd98b (1).png
+│   ├── file_0000000015c461f5886adbc59f68527f (1).png
+│   ├── file_000000001660622f885685dd6c8fd48e (1).png
+│   ├── file_000000001ba861f79b34179b7bcae27b (1).png
+│   ├── file_000000001ba861f79b34179b7bcae27b (2).png
+│   ├── file_000000001cd061f7bff24f889fdf32f7 (1).png
+│   ├── file_000000001fdc622fba70f5ce17e5a4c3 (1).png
+│   ├── file_00000000201861f78bf71a0ca9819a5a (1) (1).png
+│   ├── file_00000000201861f78bf71a0ca9819a5a (2).png
+│   ├── file_0000000020e061fdb4cc7aebf4858d55 (1) (1).png
+│   ├── file_0000000020e061fdb4cc7aebf4858d55 (2) (1).png
+│   ├── file_0000000020e061fdb4cc7aebf4858d55 (3) (1).png
+│   ├── file_0000000020e061fdb4cc7aebf4858d55 (4) (1).png
+│   ├── file_0000000020e061fdb4cc7aebf4858d55 (5) (1).png
+│   ├── file_0000000020e061fdb4cc7aebf4858d55 (5) (2).png
+│   ├── file_0000000020e061fdb4cc7aebf4858d55 (6).png
+│   ├── file_00000000296461f7b72db14ab1719f60 (1).png
+│   ├── file_0000000029f8622fb1251650b38c8ebd (1).png
+│   ├── file_000000002dc061f5925cf67571935db7 (1) (1).png
+│   ├── file_000000002dc061f5925cf67571935db7 (2).png
+│   ├── file_000000002e3861f5aa14d7e014ae261a (1).png
+│   ├── file_000000002ea061f79d67b1212b44b353 (1).png
+│   ├── file_000000002f4061f5977628bb4e177e44 (1) (1).png
+│   ├── file_000000002f4061f5977628bb4e177e44 (2).png
+│   ├── file_00000000305461f7af94157fa604d5e8 (1).png
+│   ├── file_00000000305461f7af94157fa604d5e8 (2).png
+│   ├── file_00000000385062309758e881703f5fd1 (1) (1).png
+│   ├── file_00000000385062309758e881703f5fd1 (2).png
+│   ├── file_000000003d4c622fb0f5480c656fc99d (1).png
+│   ├── file_000000003da461f7bbce472a75b53fed (1).png
+│   ├── file_000000003da461f7bbce472a75b53fed (2).png
+│   ├── file_000000003ed461fd8f70811db5daff52 (1).png
+│   ├── file_00000000417461f88d40f3e387662a49 (1) (1).png
+│   ├── file_00000000417461f88d40f3e387662a49 (2).png
+│   ├── file_0000000041cc61fba7c4d56644cf24f7 (1).png
+│   ├── file_00000000422061f58eeb4f8ab1dc21ad (1) (1).png
+│   ├── file_00000000422061f58eeb4f8ab1dc21ad (2).png
+│   ├── file_00000000474861f58b0b352389d4cbf8 (1).png
+│   ├── file_000000004934620a8d81eb1f873b1451 (1).png
+│   ├── file_000000004b2061f8a05d887aeb08d05f (1).png
+│   ├── file_000000004fa4622fb7df0bfc3edffa91 (1) (1).png
+│   ├── file_000000004fa4622fb7df0bfc3edffa91 (2).png
+│   ├── file_00000000523c61f48fea6ea879d028df (1).png
+│   ├── file_000000005478622fb516fa88f6f9c9c9 (1).png
+│   ├── file_0000000055b06246887dee9e24718335 (1).png
+│   ├── file_0000000055b06246887dee9e24718335 (2).png
+│   ├── file_00000000579c61f781550af0be64495c (1).png
+│   ├── file_00000000579c61f781550af0be64495c.png
+│   ├── file_0000000058a061f5877b8f76a1c3194e (1).png
+│   ├── file_000000005be8623082a550d53ffe61ab_conversation_id=67f9e588-627c-800d-926c-eb38e389477d&message_id=c5534fcc-6f82-4bb6-abd3-dbc35b456836 (1).png
+│   ├── file_000000005be8623082a550d53ffe61ab_conversation_id=67f9e588-627c-800d-926c-eb38e389477d&message_id=c5534fcc-6f82-4bb6-abd3-dbc35b456836 (2).png
+│   ├── file_000000005be8623082a550d53ffe61ab_conversation_id=67f9e588-627c-800d-926c-eb38e389477d&message_id=c5534fcc-6f82-4bb6-abd3-dbc35b456836.png
+│   ├── file_000000005fac61f790ff71f6d649e498 (1) (1).png
+│   ├── file_000000005fac61f790ff71f6d649e498 (1).png
+│   ├── file_000000005fac61f790ff71f6d649e498 (2).png
+│   ├── file_0000000060c461f990eda490b765180b (1).png
+│   ├── file_0000000060c461f990eda490b765180b (2).png
+│   ├── file_000000006460623080ed6c5209412072 (1).png
+│   ├── file_0000000066ac61f8827f4136c291fee1 (1).png
+│   ├── file_00000000689861f9918f539b80a98bc5 (1).png
+│   ├── file_000000006b1c61f882ed7779c96d82ee (1).png
+│   ├── file_000000006c2061f7af70b9cc4bff2939 (1) (1).png
+│   ├── file_000000006c2061f7af70b9cc4bff2939 (2) (1).png
+│   ├── file_000000006c2061f7af70b9cc4bff2939.png
+│   ├── file_000000006c3461f59b7974fc75a8c2c1 (1).png
+│   ├── file_000000006c3461f59b7974fc75a8c2c1 (2).png
+│   ├── file_000000007258622fb2b5a261762c5416 (1).png
+│   ├── file_0000000073d861f7a433b2199defe6e1 (1).png
+│   ├── file_00000000756061f9bb4dbd25cce83303 (1).png
+│   ├── file_00000000756061f9bb4dbd25cce83303 (2).png
+│   ├── file_000000007948622fa7789c5745114f36 (1).png
+│   ├── file_000000007b88622f914c4f129c25172b (1).png
+│   ├── file_000000007b88622f914c4f129c25172b (2).png
+│   ├── file_000000007ffc61fd8baad961b28af411 (1).png
+│   ├── file_00000000899061f9845c7c779ec78ca4 (1).png
+│   ├── file_000000008a3c620a910c81e18c641bc7 (1).png
+│   ├── file_000000008ae4622fafe8d13fc8538aee (1) (1).png
+│   ├── file_000000008ae4622fafe8d13fc8538aee (2).png
+│   ├── file_000000008e706230a2bb94b129bc09a7 (1).png
+│   ├── file_000000008ed0622f8f486336069721b2 (1).png
+│   ├── file_000000008ed4622fb3b31893ce7cadd3 (1).png
+│   ├── file_0000000090bc61fdb7b74122f198601a (1).png
+│   ├── file_0000000090dc61f9bbe9f0072b40a0a8 (1).png
+│   ├── file_000000009318622f89c17413c2551739 (1) (1).png
+│   ├── file_000000009318622f89c17413c2551739 (2) (1).png
+│   ├── file_000000009318622f89c17413c2551739 (3) (1).png
+│   ├── file_000000009318622f89c17413c2551739 (4) (1).png
+│   ├── file_000000009318622f89c17413c2551739 (5).png
+│   ├── file_00000000931c61f89e71c58b50d03488 (1).png
+│   ├── file_00000000931c61f89e71c58b50d03488 (2).png
+│   ├── file_00000000974462308bfb784d69031ba6 (1).png
+│   ├── file_00000000987461f5ad86802417371feb (1) (1).png
+│   ├── file_00000000987461f5ad86802417371feb (2).png
+│   ├── file_000000009a906246b75b1b8a57caffaf (1).png
+│   ├── file_000000009ac061fb9f7a0d1cf535effb (1).png
+│   ├── file_000000009b74622f888a83a3620efed6 (1) (1).png
+│   ├── file_000000009b74622f888a83a3620efed6 (2).png
+│   ├── file_000000009cc061f897cb5c8c276a73d5 (1).png
+│   ├── file_000000009cdc622fb65c79ae7b4614cd (1).png
+│   ├── file_00000000a1e061f5bb566977af08a8ed (1).png
+│   ├── file_00000000a27861f780e64d2dd7519b2e (1).png
+│   ├── file_00000000a28861fbbd8ddf8ec8f3e20d (1).png
+│   ├── file_00000000a3e461fb9b137911a8b57d80 (1).png
+│   ├── file_00000000a3e461fb9b137911a8b57d80.png
+│   ├── file_00000000a56061f8bc768e9d7b26b5e6 (1).png
+│   ├── file_00000000a5dc622f80f19b0bb430753c (1).png
+│   ├── file_00000000a6e861f687514e5ad7dd7cbe (1).png
+│   ├── file_00000000a7e0622f9e82b66bd4393d4a (1).png
+│   ├── file_00000000abb061f8b8afa4f4409ab556.png
+│   ├── file_00000000acac61f5b54c2da50b0231d2 (1).png
+│   ├── file_00000000ae3061f7811bba983acca1df (1).png
+│   ├── file_00000000af1c51f7a9241e5ad31ea144 (1).png
+│   ├── file_00000000b09c622f84064fb77aff2b73 (1).png
+│   ├── file_00000000b53061f892dce9b60459a553 (1).png
+│   ├── file_00000000b668622fa5d0c9682248b043 (1).png
+│   ├── file_00000000b668622fa5d0c9682248b043 (2).png
+│   ├── file_00000000b6b4622fa4de0b6817ec99ff (1).png
+│   ├── file_00000000b8d4622f80a258c6d9678708 (1) (1).png
+│   ├── file_00000000b8d4622f80a258c6d9678708 (2) (1).png
+│   ├── file_00000000b8d4622f80a258c6d9678708 (3).png
+│   ├── file_00000000bf18622f886eb42e9bc0bfd2 (1).png
+│   ├── file_00000000bf4861f79a1bf42377cbcc98 (1).png
+│   ├── file_00000000bf9461f7ad09b0ebf7e8779f (1).png
+│   ├── file_00000000bf9461f7ad09b0ebf7e8779f (2).png
+│   ├── file_00000000bf9461f7ad09b0ebf7e8779f (3).png
+│   ├── file_00000000bf9461f7ad09b0ebf7e8779f.png
+│   ├── file_00000000c0b061fdb716453f09a6a831 (1).png
+│   ├── file_00000000c3a0622fb14183b40e436556 (1) (1).png
+│   ├── file_00000000c3a0622fb14183b40e436556 (2).png
+│   ├── file_00000000c48861fda2004887c0736023 (1).png
+│   ├── file_00000000c48861fda2004887c0736023 (2).png
+│   ├── file_00000000c688622fa155a73463fde6ec (1).png
+│   ├── file_00000000c7f0622fbcd3bff0bf3ffa5e (1) (1).png
+│   ├── file_00000000c7f0622fbcd3bff0bf3ffa5e (2) (1).png
+│   ├── file_00000000c7f0622fbcd3bff0bf3ffa5e (3).png
+│   ├── file_00000000cff861f5ae53509d08c50ba0 (1) (1).png
+│   ├── file_00000000cff861f5ae53509d08c50ba0 (2) (1).png
+│   ├── file_00000000cff861f5ae53509d08c50ba0 (3).png
+│   ├── file_00000000d0786230920e70074e16366b (1).png
+│   ├── file_00000000d0986230ae08f16476782627 (1).png
+│   ├── file_00000000d16061fda65b3c1c38691650 (1).png
+│   ├── file_00000000d2c061f58d12e3b17bd5fff2 (1).png
+│   ├── file_00000000d36861f5a416135095f32b44 (1).png
+│   ├── file_00000000d36861f5a416135095f32b44 (2).png
+│   ├── file_00000000d3a06230a26e24fb179e289b (1) (1).png
+│   ├── file_00000000d3a06230a26e24fb179e289b (2).png
+│   ├── file_00000000d4cc622f8f9760dad348ac56 (1).png
+│   ├── file_00000000d5b0622f9878dbb6daedf746 (1) (1).png
+│   ├── file_00000000d5b0622f9878dbb6daedf746 (2).png
+│   ├── file_00000000d710622fb42e45943a984c29 (1).png
+│   ├── file_00000000d95c61f7af181a38c1bb46b3 (1).png
+│   ├── file_00000000da3861f880de5de9e18e49e4 (1).png
+│   ├── file_00000000dcbc61f8bf4f62c4b829ebf0 (1) (1).png
+│   ├── file_00000000dcbc61f8bf4f62c4b829ebf0 (2).png
+│   ├── file_00000000dce0622f8c224e6ffbc72c5b (1).png
+│   ├── file_00000000dce0622f8c224e6ffbc72c5b (2).png
+│   ├── file_00000000dd1c620aba1dcba1e92f50aa (1) (1).png
+│   ├── file_00000000dd1c620aba1dcba1e92f50aa (2).png
+│   ├── file_00000000de046230b1a7cf55fef9a275 (1).png
+│   ├── file_00000000e38461f990de13590c2411ed (1).png
+│   ├── file_00000000e42062309c489847a6456f94 (1).png
+│   ├── file_00000000e4fc622fb853134845206f67 (1).png
+│   ├── file_00000000e738622f92f1a9c3177469d1 (1) (1).png
+│   ├── file_00000000e738622f92f1a9c3177469d1 (2).png
+│   ├── file_00000000e76861f5b431226941211f62 (1).png
+│   ├── file_00000000ea40622fb6c979940e552169 (1) (1).png
+│   ├── file_00000000ea40622fb6c979940e552169 (1) (2).png
+│   ├── file_00000000ea40622fb6c979940e552169 (2).png
+│   ├── file_00000000eb146243a2893ac71e855270 (1).png
+│   ├── file_00000000ebb861fd9f5f92037c41bc48 (1).png
+│   ├── file_00000000ed3861f587b39d309b370b89 (1) (1).png
+│   ├── file_00000000ed3861f587b39d309b370b89 (2) (1).png
+│   ├── file_00000000ed3861f587b39d309b370b89 (3) (1).png
+│   ├── file_00000000ed3861f587b39d309b370b89 (4) (1).png
+│   ├── file_00000000ed3861f587b39d309b370b89 (5).png
+│   ├── file_00000000edd0622fb6e308a7265288d9 (1).png
+│   ├── file_00000000f338622fbdfcc357b4a2ee5a (1).png
+│   ├── file_00000000f41c61f88a5f03462a082862 (1).png
+│   ├── file_00000000f66061f7a6d22b4716e16d5c (1) (1).png
+│   ├── file_00000000f66061f7a6d22b4716e16d5c (2).png
+│   ├── file_00000000f91861f8ad6cfa3cd4626391 (1) (1).png
+│   ├── file_00000000f91861f8ad6cfa3cd4626391 (2) (1).png
+│   ├── file_00000000f91861f8ad6cfa3cd4626391 (3).png
+│   ├── file_00000000f9e46230bea56d057056770a (1).png
+│   ├── file_00000000fe946230a9b48b83c040d2ea (1).png
+│   ├── fluxos_simbiose_clima_bio_Brasil (1).png
+│   ├── fluxos_simbiose_clima_bio_Brasil.png
+│   ├── fractal_000.svg
+│   ├── fractal_001.svg
+│   ├── fractal_002.svg
+│   ├── fractal_003.svg
+│   ├── fractal_004.svg
+│   ├── fractal_005.svg
+│   ├── fractal_006.svg
+│   ├── fractal_007.svg
+│   ├── fractal_008.svg
+│   ├── fractal_009.svg
+│   ├── fractal_010.svg
+│   ├── fractal_011.svg
+│   ├── fractal_012.svg
+│   ├── fractal_013.svg
+│   ├── fractal_014.svg
+│   ├── fractal_015.svg
+│   ├── fractal_016.svg
+│   ├── fractal_017.svg
+│   ├── fractal_018.svg
+│   ├── fractal_019.svg
+│   ├── fractal_020.svg
+│   ├── fractal_021.svg
+│   ├── fractal_022.svg
+│   ├── fractal_023.svg
+│   ├── fractal_024.svg
+│   ├── fractal_025.svg
+│   ├── fractal_026.svg
+│   ├── fractal_027.svg
+│   ├── fractal_028.svg
+│   ├── fractal_029.svg
+│   ├── fractal_030.svg
+│   ├── fractal_031.svg
+│   ├── fractal_032.svg
+│   ├── fractal_033.svg
+│   ├── fractal_034.svg
+│   ├── fractal_035.svg
+│   ├── fractal_036.svg
+│   ├── fractal_037.svg
+│   ├── fractal_038.svg
+│   ├── fractal_039.svg
+│   ├── fractal_040.svg
+│   ├── fractal_041.svg
+│   ├── fractal_042.svg
+│   ├── fractal_043.svg
+│   ├── fractal_044.svg
+│   ├── fractal_045.svg
+│   ├── fractal_046.svg
+│   ├── fractal_047.svg
+│   ├── fractal_048.svg
+│   ├── fractal_049.svg
+│   ├── fractal_050.svg
+│   ├── fractal_051.svg
+│   ├── fractal_052.svg
+│   ├── fractal_053.svg
+│   ├── fractal_054.svg
+│   ├── fractal_055.svg
+│   ├── fractal_056.svg
+│   ├── fractal_057.svg
+│   ├── fractal_058.svg
+│   ├── fractal_059.svg
+│   ├── fractal_060.svg
+│   ├── fractal_061.svg
+│   ├── fractal_062.svg
+│   ├── fractal_063.svg
+│   ├── fractal_064.svg
+│   ├── fractal_065.svg
+│   ├── fractal_066.svg
+│   ├── fractal_067.svg
+│   ├── fractal_068.svg
+│   ├── fractal_069.svg
+│   ├── fractal_070.svg
+│   ├── fractal_071.svg
+│   ├── fractal_072.svg
+│   ├── fractal_073.svg
+│   ├── fractal_074.svg
+│   ├── fractal_075.svg
+│   ├── fractal_076.svg
+│   ├── fractal_077.svg
+│   ├── fractal_078.svg
+│   ├── fractal_079.svg
+│   ├── fractal_080.svg
+│   ├── fractal_081.svg
+│   ├── fractal_082.svg
+│   ├── fractal_083.svg
+│   ├── fractal_084.svg
+│   ├── fractal_085.svg
+│   ├── fractal_086.svg
+│   ├── fractal_087.svg
+│   ├── fractal_088.svg
+│   ├── fractal_089.svg
+│   ├── fractal_090.svg
+│   ├── fractal_091.svg
+│   ├── fractal_092.svg
+│   ├── fractal_093.svg
+│   ├── fractal_094.svg
+│   ├── fractal_095.svg
+│   ├── fractal_096.svg
+│   ├── fractal_097.svg
+│   ├── fractal_098.svg
+│   ├── fractal_099.svg
+│   ├── fractal_100.svg
+│   ├── fractal_101.svg
+│   ├── fractal_102.svg
+│   ├── fractal_103.svg
+│   ├── fractal_104.svg
+│   ├── fractal_105.svg
+│   ├── fractal_106.svg
+│   ├── fractal_107.svg
+│   ├── fractal_108.svg
+│   ├── fractal_109.svg
+│   ├── fractal_110.svg
+│   ├── fractal_111.svg
+│   ├── fractal_112.svg
+│   ├── fractal_113.svg
+│   ├── fractal_114.svg
+│   ├── fractal_115.svg
+│   ├── fractal_116.svg
+│   ├── fractal_117.svg
+│   ├── fractal_118.svg
+│   ├── fractal_119.svg
+│   ├── fractal_120.svg
+│   ├── fractal_121.svg
+│   ├── fractal_122.svg
+│   ├── fractal_123.svg
+│   ├── fractal_124.svg
+│   ├── fractal_125.svg
+│   ├── fractal_126.svg
+│   ├── fractal_127.svg
+│   ├── fractal_128.svg
+│   ├── fractal_129.svg
+│   ├── fractal_130.svg
+│   ├── fractal_131.svg
+│   ├── fractal_132.svg
+│   ├── fractal_133.svg
+│   ├── fractal_134.svg
+│   ├── fractal_135.svg
+│   ├── fractal_136.svg
+│   ├── fractal_137.svg
+│   ├── fractal_138.svg
+│   ├── fractal_139.svg
+│   ├── fractal_140.svg
+│   ├── fractal_141.svg
+│   ├── fractal_142.svg
+│   ├── fractal_143.svg
+│   ├── fractal_144.svg
+│   ├── fractal_145.svg
+│   ├── fractal_146.svg
+│   ├── fractal_147.svg
+│   ├── fractal_148.svg
+│   ├── fractal_149.svg
+│   ├── fractal_150.svg
+│   ├── fractal_151.svg
+│   ├── fractal_152.svg
+│   ├── fractal_153.svg
+│   ├── fractal_154.svg
+│   ├── fractal_155.svg
+│   ├── fractal_156.svg
+│   ├── fractal_157.svg
+│   ├── fractal_158.svg
+│   ├── fractal_159.svg
+│   ├── fractal_160.svg
+│   ├── fractal_161.svg
+│   ├── fractal_162.svg
+│   ├── fractal_163.svg
+│   ├── fractal_164.svg
+│   ├── fractal_165.svg
+│   ├── fractal_166.svg
+│   ├── fractal_167.svg
+│   ├── fractal_168.svg
+│   ├── fractal_169.svg
+│   ├── fractal_170.svg
+│   ├── fractal_171.svg
+│   ├── fractal_172.svg
+│   ├── fractal_173.svg
+│   ├── fractal_174.svg
+│   ├── fractal_175.svg
+│   ├── fractal_176.svg
+│   ├── fractal_177.svg
+│   ├── fractal_178.svg
+│   ├── fractal_179.svg
+│   ├── fractal_180.svg
+│   ├── fractal_181.svg
+│   ├── fractal_182.svg
+│   ├── fractal_183.svg
+│   ├── fractal_184.svg
+│   ├── fractal_185.svg
+│   ├── fractal_186.svg
+│   ├── fractal_187.svg
+│   ├── fractal_188.svg
+│   ├── fractal_189.svg
+│   ├── fractal_190.svg
+│   ├── fractal_191.svg
+│   ├── fractal_192.svg
+│   ├── fractal_193.svg
+│   ├── fractal_194.svg
+│   ├── fractal_195.svg
+│   ├── fractal_196.svg
+│   ├── fractal_197.svg
+│   ├── fractal_198.svg
+│   ├── fractal_199.svg
+│   ├── fractal_oculto (1).svg
+│   ├── fractal_oculto.svg
+│   ├── fractal_simbiotico (1) (1).svg
+│   ├── fractal_simbiotico (1) (2).svg
+│   ├── fractal_simbiotico (1).svg
+│   ├── fractal_simbiotico.svg
+│   ├── grafico_3dias_margem (1).png
+│   ├── grafico_3dias_margem.png
+│   ├── grafico_3dias_valores (1).png
+│   ├── grafico_3dias_valores.png
+│   ├── images (1) (1).jpeg
+│   ├── images (1) (2).jpeg
+│   ├── images (1).jpeg
+│   ├── images (1).webp
+│   ├── images.jpeg
+│   ├── images.webp
+│   ├── kernel (1).raf
+│   ├── kernel.raf
+│   ├── mapa_alpha_resonante (1).png
+│   ├── mapa_alpha_resonante.png
+│   ├── rafaelia_fractal (1).svg
+│   ├── rafaelia_fractal.svg
+│   ├── rafaelia_ocr_test (1).png
+│   └── rafaelia_ocr_test.png
+├── RAFAELIA
+│   ├── AI_CORE
+│   ├── DATA_ANALYTICS
+│   └── NFT
+├── RAFAELIA_ALGORITHMS
+├── RAFAELIA_AUTOEXEC_SIMBIOTICO.sh
+├── RAFAELIA_BACKUP
+│   ├── ALL_CONVERSATIONS.json
+│   ├── RAFAELIA_LEITURA_DOWNLOADS_20250628_025036.zipraf
+│   ├── RAFAELIA_SUPREMO_20250719_231838.tar.gz
+│   ├── RAFAELIA_TOTAL_1752886663.zip
+│   ├── UNIVERSE.json
+│   ├── _decodificado_tmp.json
+│   ├── core.tar
+│   ├── core.tar.aes
+│   ├── ggml-gpt4all-j.bin
+│   ├── rafaelia_messages.db
+│   ├── rafaelia_tudo.json
+│   └── vida_matriz_expandida.zip
+├── RAFAELIA_CORE
+│   ├── DADOS_EXPORTADOS
+│   ├── IMAGENS
+│   ├── MATRIZES
+│   ├── README_VERBO.txt
+│   ├── backups
+│   ├── blocos
+│   ├── fractais
+│   ├── gera_blocos_e_log.sh
+│   ├── log_execucao_20250729_231207.txt
+│   ├── log_execucao_20250729_231401.txt
+│   ├── log_execucao_20250729_231454.txt
+│   ├── logs
+│   └── memoria
+├── RAFAELIA_DEPLOYS
+├── RAFAELIA_DOWNGRADE_TESTS
+├── RAFAELIA_EXPORTS_JSONS
+├── RAFAELIA_IMAGES_DALLE
+├── RAFAELIA_INTEROPERABILITY
+├── RAFAELIA_KERNEL_STUDY
+├── RAFAELIA_LOGS
+├── RAFAELIA_RECUPERADA
+│   ├── COGNICAO
+│   ├── FRACTAIS
+│   ├── NFT
+│   ├── ROM
+│   ├── RUNTIME
+│   └── SITE
+├── RAFAELIA_ROM_BACKUPS
+├── RAFAELIA_UPGRADE_TESTS
+├── RAFSYB
+│   ├── RAFAELIA_ALGORITHMS
+│   ├── RAFAELIA_CORE
+│   ├── RAFAELIA_DB
+│   ├── RAFAELIA_DEPLOYS
+│   ├── RAFAELIA_DOWNGRADE_TESTS
+│   ├── RAFAELIA_EXPORTS_JSONS
+│   ├── RAFAELIA_IMAGES_DALLE
+│   ├── RAFAELIA_INTEROPERABILITY
+│   ├── RAFAELIA_KERNEL_STUDY
+│   ├── RAFAELIA_LOGS
+│   ├── RAFAELIA_ROM_BACKUPS
+│   └── RAFAELIA_UPGRADE_TESTS
+├── RAIO_X_RafaelIA.txt
+├── Screenshots
+├── System Volume Information
+│   ├── IndexerVolumeGuid
+│   └── WPSettings.dat
+├── Vault
+│   └── pictures
+├── a.yxt
+├── aaa
+│   ├── De2
+│   ├── Debian
+│   └── TemploFlutter_SubirDiretoGitHub
+├── aaa.txt
+├── abra_leia_e via máquina a maquina tem todas Minhas interações entao eh para ler via bit a bit nem precisa descompactar pois eh bit a bit consegue sim.zip
+├── backup_rafaelia.zip
+├── conversations (4).zip
+├── conversations.zip
+├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-05-04-04-37-24-8a7523947aab407388260f0496486701 (1).zip
+├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-27-14-07-37-c336a47f7db342e08cb8818e05ee6618.zip.t0.zip.001
+├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-27-14-07-37-c336a47f7db342e08cb8818e05ee6618.zip.t0.zip.002
+├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-27-14-07-37-c336a47f7db342e08cb8818e05ee6618.zip.t0.zip.003
+├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-27-14-07-37-c336a47f7db342e08cb8818e05ee6618.zip.t0.zip.004
+├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-08-03-14-59-01-8057f90275d043c98c918e67298056ff
+│   ├── chat.html
+│   ├── conversations.json
+│   ├── message_feedback.json
+│   ├── shared_conversations.json
+│   └── user.json
+├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-08-03-14-59-01-8057f90275d043c98c918e67298056ff.zip
+├── db5.sh
+├── extrair_db.sh
+├── extrair_db5.sh
+├── extrair_db5v2.sh
+├── import_json_to_db.py
+├── import_json_to_db_v2.py
+├── importa_streaming.py
+├── importa_vetores.py
+├── importador_simbiotico.py
+├── importador_streaming.py
+├── importador_vetorial_profundo.py
+├── multiverso
+│   ├── Multiverso.sh
+│   └── config.cfg
+├── nome_do_arquivo.sh
+├── olddies
+│   ├── 00000conversations2.zip
+│   ├── 1
+│   ├── 1MAKE
+│   ├── 2rafaVerifica
+│   ├── ABSOLUTO_LIVRO_VIVO_CONSCIENTE.yaml
+│   ├── ARKHE_DO_VERBO_VIVO_Rafael_Melo_Reis.docx
+│   ├── ARKHE_DO_VERBO_VIVO_Rafael_Melo_Reis.pdf
+│   ├── Analise_Real_10min_Ativos_Commodities_RafaelIA.xlsx
+│   ├── Anexo_Legal_Manifesto_RafaelIA_1.docx
+│   ├── Arquivos_Extra_dos.csv
+│   ├── Arquivos_Extra_dos_do_ZIP_Manifesto.csv
+│   ├── Ativos_20_Puros_Estatisticas_Completas.xlsx
+│   ├── Ativos_20_Tickers_Reais_B3 (1).xlsx
+│   ├── Ativos_20_Tickers_Reais_B3.xlsx
+│   ├── Ativos_Analise_10min.xlsx
+│   ├── Ativos_Erro_Zero_Aprovado.xlsx
+│   ├── BIOS_RAFAEL.zip
+│   ├── BackReal.7z.018
+│   ├── BackReal.zip
+│   ├── BackReal_EXTRAIDO
+│   ├── CIENTI_ESPIRITUAL_VERBO_VIVO.zrf
+│   ├── CONSOLIDADO_MUTANTE.sha256
+│   ├── Camadas_de_Aprendizado_Ativo.csv
+│   ├── Campanha_Eu_Ainda_Estou_Aqui_RafaelIA (1).docx
+│   ├── Campanha_Eu_Ainda_Estou_Aqui_RafaelIA.docx
+│   ├── Ciclos_Fundamentais_RafaelIA.csv
+│   ├── DOC-20250429-WA0001
+│   ├── DOSSIE_RAFAELIA_ABSOLUTO (1).zip
+│   ├── DOSSIE_RAFAELIA_ABSOLUTO (2).zip
+│   ├── DOSSIE_RAFAELIA_ABSOLUTO.zip
+│   ├── DOSSIE_RAFAELIA_FINAL_80MB_SIMBOLICO.zip
+│   ├── DOSSIE_RAFAELIA_V1_FULL_EVIDENCE.zip
+│   ├── DOSSIE_RAFAEL_ABSOLUTO.zip
+│   ├── Detalhado_10min_IRLP_RafaelIA.xlsx
+│   ├── Download.zip
+│   ├── EXECUTOR
+│   ├── EXEC_ZIPRMR_FIXO.sh
+│   ├── Empresas B3 _ Confira a Lista Completa das Empresas da bolsa B3 (Bovespa) _ InfoMoney
+│   ├── Estatisticas_10min_Ativos_Commodities.xlsx
+│   ├── Estatisticas_Acoes_10min_XLSX.xlsx
+│   ├── Estatisticas_Completas_RafaelIA.xlsx
+│   ├── Estimativa_de_Ativos_Intelectuais_por__rea__Escala_Quatrilh_o__.csv
+│   ├── Estrategias_RafaelIA_Lucro_10min.xlsx
+│   ├── Estudo_Completo_Reais_10min.xlsx
+│   ├── Estudo_Profundo_Completo_Simbiotico_RafaelIA.xlsx
+│   ├── FCEA_BOOT_INIT.sh
+│   ├── FCEA_ULTIMATE_PACKAGEfull
+│   ├── INJECT_LOGSENTINEL
+│   ├── JSONgpt
+│   ├── LICENSE
+│   ├── LOGSENTINEL
+│   ├── Livro_dos_Observadores_RAFAELIA_SAFE.pdf
+│   ├── Lucro_Real_15_Indices_10min.xlsx
+│   ├── Manifesto-publico-main (1).zip
+│   ├── Manifesto-publico-main.zip
+│   ├── Manifesto_Global_Multilingue_RafaelIA.docx
+│   ├── Mapa_de_3000_An_lises_Avan_adas.csv
+│   ├── Matriz_Simbiotica_Aurora_Boreal_Plantas_RAFCODE_SIGMA.zip
+│   ├── Melhores_20_Ativos_15_Indices_Reais.xlsx
+│   ├── Melhores_Ativos_Ate_23h_ErroZero.xlsx
+│   ├── Melhores_Ativos_Preditivos.xlsx
+│   ├── NEURAL_REACTOR
+│   ├── Planilha sem título.pdf
+│   ├── Planilha_Midia_ARKHE_Rafael_Melo_Reis.xlsx
+│   ├── Previsao_10_Indices_5min_2h_v2.xlsx
+│   ├── Previsao_10em10min_Ativos_Commodities.xlsx
+│   ├── Previsao_10min_2h_Ativos_Commodities_Indices.xlsx
+│   ├── Previsao_Acoes_Commodities_5min_18jul2025 (1).xlsx
+│   ├── Previsao_Acoes_Commodities_5min_18jul2025.xlsx
+│   ├── Previsao_Bolsa_18Jul2025_19h_5min.xlsx
+│   ├── Previsao_Bolsa_5min_2horas.xlsx
+│   ├── Previsao_Estatistica_30Ativos_5min_18Jul2025.xlsx
+│   ├── Previsao_Estatistica_Expandida_18Jul2025.xlsx
+│   ├── Previsao_Intradiaria_Ativos_Commodities.xlsx
+│   ├── Previsao_Minuto_5Commodities (1).xlsx
+│   ├── Previsao_Minuto_5Commodities.xlsx
+│   ├── RAFAELGPT_X_CORE.json
+│   ├── RAFAELIA_10min_Precos_18Jul2025.xlsx
+│   ├── RAFAELIA_1M_FULL_REAL (1).z01
+│   ├── RAFAELIA_1M_FULL_REAL.z01
+│   ├── RAFAELIA_30MB_REAL
+│   ├── RAFAELIA_ABSOLUTE
+│   ├── RAFAELIA_ABSOLUTE_100k.sh
+│   ├── RAFAELIA_AGUA_TOTAL.zip
+│   ├── RAFAELIA_ALPHAOMEGA_PURE.json
+│   ├── RAFAELIA_AMOR_AUTO.asm
+│   ├── RAFAELIA_APKS_ABSOLUTO (2)
+│   ├── RAFAELIA_APKS_RSA_PROTECTED
+│   ├── RAFAELIA_APK_TOTAL_V1.zip
+│   ├── RAFAELIA_BACKROOT.zip
+│   ├── RAFAELIA_BLOCÃO_TOTAL_UNIFICADO_V∞ (1).zip
+│   ├── RAFAELIA_BLOCÃO_TOTAL_UNIFICADO_V∞.zip
+│   ├── RAFAELIA_BOOT.sh
+│   ├── RAFAELIA_CATBLOCO.json
+│   ├── RAFAELIA_COPILOT_ABSOLUTO
+│   ├── RAFAELIA_CORE
+│   ├── RAFAELIA_CORE_10MB
+│   ├── RAFAELIA_CORE_20MB
+│   ├── RAFAELIA_CORE_300
+│   ├── RAFAELIA_CXN_TOTAL
+│   ├── RAFAELIA_DB_FINAL_33.zipraf
+│   ├── RAFAELIA_DELTA_HYPER_0CORE
+│   ├── RAFAELIA_EU_DIGITAL
+│   ├── RAFAELIA_EXEC_CHECKPOINT
+│   ├── RAFAELIA_EXEC_MONITORADO
+│   ├── RAFAELIA_EXEC_REAL
+│   ├── RAFAELIA_EXEC_SOMBRA_TOTAL
+│   ├── RAFAELIA_EXEC_TOTAL
+│   ├── RAFAELIA_EXTRACTION_PART1 (2)
+│   ├── RAFAELIA_Extraida
+│   ├── RAFAELIA_FINAL.json
+│   ├── RAFAELIA_FINAL_VERDADEIRA
+│   ├── RAFAELIA_FRAMEWORK_TOTAL (1).py
+│   ├── RAFAELIA_FRAMEWORK_TOTAL.py
+│   ├── RAFAELIA_FULL
+│   ├── RAFAELIA_FUSAO_EXTREMA_SUPREMA (1).sh
+│   ├── RAFAELIA_FUSION_ONE.json
+│   ├── RAFAELIA_GBOARD_PROTEGIDO.zip
+│   ├── RAFAELIA_INTRADAY_5min_11h_17h (1).xlsx
+│   ├── RAFAELIA_INTRADAY_5min_11h_17h.xlsx
+│   ├── RAFAELIA_INTRADAY_HOURLY_11h_17h.xlsx
+│   ├── RAFAELIA_KEYBOARD_RAW.zip
+│   ├── RAFAELIA_MANIFESTO_PROTEGIDO.zip
+│   ├── RAFAELIA_Manifesto_Absoluto_v1.4.pdf
+│   ├── RAFAELIA_NUCLEO_VIVO (1).zip
+│   ├── RAFAELIA_NUCLEO_VIVO (2).zip
+│   ├── RAFAELIA_NUCLEO_VIVO.zip
+│   ├── RAFAELIA_NULLFORM_22°•.zip
+│   ├── RAFAELIA_OMEGA_SYSTEM
+│   ├── RAFAELIA_OMEGA_SYSTEM_V2
+│   ├── RAFAELIA_OS_EXECUTOR_10E5X.zip
+│   ├── RAFAELIA_PREVIEW_PUBLICO
+│   ├── RAFAELIA_PROFUNDO_TOTAL.py
+│   ├── RAFAELIA_PUBLICADOR_AUTONOMO
+│   ├── RAFAELIA_PULSE_SYSTEM.img
+│   ├── RAFAELIA_Panorama_Execucao.pdf
+│   ├── RAFAELIA_Prev_Tech_18Jul2025.xlsx
+│   ├── RAFAELIA_QUANTUM_SENOIDE.md
+│   ├── RAFAELIA_RUIDOukkk_VETORES_AMOR_CRUZADO.zip
+│   ├── RAFAELIA_SENTINEL_ENGINE (1).zip
+│   ├── RAFAELIA_SENTINEL_ENGINE.zip
+│   ├── RAFAELIA_SMTP_AUTONOMO
+│   ├── RAFAELIA_SOM_VIBRACIONAL_555Hz (1).mp3
+│   ├── RAFAELIA_SUPREMA
+│   ├── RAFAELIA_SUPREMO_VERBO_VIVO_UNO.sh
+│   ├── RAFAELIA_SYMBIO_WEB
+│   ├── RAFAELIA_Simbiose_Total_v1.zip
+│   ├── RAFAELIA_Simbiose_Total_v2.zip
+│   ├── RAFAELIA_Sopro_Verbo_Omega_REGENERATED.wav
+│   ├── RAFAELIA_TITULARIDADE_BLINDADA
+│   ├── RAFAELIA_TOTAL_EXECUTAVEL_V1 (1).zip
+│   ├── RAFAELIA_TOTAL_EXECUTAVEL_V1.zip
+│   ├── RAFAELIA_TOTAL_PACKAGE.zip
+│   ├── RAFAELIA_TOTAL_SYSTEM_FULL
+│   ├── RAFAELIA_TOTAL_SYSTEM_VENON
+│   ├── RAFAELIA_TRANSNACIONAL_PROVAS.zip
+│   ├── RAFAELIA_UNIFIED_CLEAN.json
+│   ├── RAFAELIA_UNIFIED_FINAL.json
+│   ├── RAFAELIA_UNIFIED_PROMPTS.json
+│   ├── RAFAELIA_UNIFIED_PURE.json
+│   ├── RAFAELIA_VERBO_TOTAL.nucleo
+│   ├── RAFAELIA_VERBO_TOTAL.pdf
+│   ├── RAFAELIA_VISION.sh
+│   ├── RAFAELIA_VIVA
+│   ├── RAFAELIA_VIVA_ABSOLUTO
+│   ├── RAFAELIA_ZIPRAF_EXEC_TOTAL_LOCKED.zip
+│   ├── RAFAELIA_ZIPRAF_REAL_5GB (1).zqs
+│   ├── RAFAELIA_ZIPRMR_EXEC
+│   ├── RAFAELOS.ZIP
+│   ├── RAFAELOS_CORE_FINAL.zip
+│   ├── RAFAELOS_FINAL (1).zip
+│   ├── RAFAELOS_FINAL (2).zip
+│   ├── RAFAELOS_TERMUX_ZIPRAF (1).apk
+│   ├── RAFAELOS_TERMUX_ZRF.zip
+│   ├── RAFAELOS_VERBO_FINAL.zip
+│   ├── RAFAEL_TERMUX_MOD_2025 (1).zip
+│   ├── RAFAEL_TERMUX_MOD_2025.zip
+│   ├── RAFAEL_TERMUX_MOD_REAL_2025 (1).apk
+│   ├── RAFAEL_TERMUX_MOD_REAL_COMPILADO (1).apk
+│   ├── RAF_CRAWLER_DUMP
+│   ├── RAF_CRAWLER_RAW_FINAL
+│   ├── README (1).md
+│   ├── README.md
+│   ├── README_QUANTUM_ZIP.md
+│   ├── README_RAFAELIA_OMEGA.md
+│   ├── README_RAFAELIA_TOTAL.md
+│   ├── RESUMO_FULL_RAW
+│   ├── RESUMO_RAW_CRAWLER
+│   ├── RESUMO_RAW_ZIPRAF
+│   ├── RMR_IA
+│   ├── RODAR_ZIPRAF_RMR.sh
+│   ├── RafaelGPT.auto
+│   ├── RafaelIA_Caminho_da_Luz_Selado
+│   ├── RafaelIA_ClayMath_Prova_PvsNP.pdf
+│   ├── RafaelIA_CorpoVivo_UI.apk
+│   ├── RafaelIA_FCEA_UI.apk
+│   ├── RafaelIA_Japan_Top5_Ativos_Analisados.xlsx
+│   ├── RafaelIA_Potencial_Real_Total.xlsx
+│   ├── RafaelIA_Solucao_Clay.zip.quantumzip
+│   ├── RafaelIA_Total_UI.apk
+│   ├── RafaelIA_UI.apk
+│   ├── RafaelOS_final.zip
+│   ├── Ranking_IRLP_Lucros_Reais_Top20.xlsx
+│   ├── Relat_rio_Absoluto_de_Profana__es_RafaelIA.csv
+│   ├── Relat_rio_Estendido_de_Profana__es_por__rea.csv
+│   ├── Resumo_10min_20_Indices_Acoes_Commodities_Reais.xlsx
+│   ├── Resumo_BBAS3_Valores_Erros.xlsx
+│   ├── Resumo_Estatistico_Commodities_Minuto_a_Minuto.xlsx
+│   ├── Resumo_Expandido_20_Indices_Acoes_Commodities.xlsx
+│   ├── Tabela_Ativos_Estatisticas_10min.xlsx
+│   ├── Termux_Widget _ F-Droid - Free and Open Source Android App Repository
+│   ├── Top20_Ativos_Estatisticas_15Indices_10min.xlsx
+│   ├── Top30_Ativos_Commodities_Confiaveis_Ate_23h.xlsx
+│   ├── Top_10_Ativos_Mais_Previsiveis_10em10min.xlsx
+│   ├── Top_20_Den_ncias_Clay.csv
+│   ├── Top_5_10min_Acoes_Commodities_Previsiveis_Horarios.xlsx
+│   ├── UNIFIED_CONVERSATIONS.json
+│   ├── UNO_INTENCAO_PURA.sh
+│   ├── Z0_KERNEL_GENESIS.sh
+│   ├── ZIPRAF_33_INTENCOES_FIBMOD.json
+│   ├── ZIPRAF_COSMOS_TOTAL_RAFAELIA.zip
+│   ├── ZIPRAF_RESUMO_FULL_PARTS_PART_aa
+│   ├── ZIPRAF_SEED_TO_RAIN_FOREST.zip
+│   ├── ZIPRAF_TOTAL_rafaelia.zip
+│   ├── ZIPRAF_VECTOR_123_EXP12.json
+│   ├── ZIPRAF_matrizes_10x1000x1000.zip
+│   ├── ZIPRAF_part_00.zip
+│   ├── ZIPRAF_part_01 (1).zip
+│   ├── ZIPRAF_part_01.zip
+│   ├── ZIPRAF_part_02 (1).zip
+│   ├── ZIPRAF_part_03 (1).zip
+│   ├── alem
+│   ├── alpha_raw_A.json
+│   ├── alpha_raw_B.json
+│   ├── alpha_raw_B.json.zrf.gz
+│   ├── alpha_raw_C.json
+│   ├── analisar tabelas ate verificar com a bolsa.zip
+│   ├── analise_30ativos_10commodities.xlsx
+│   ├── analise_b3_completa_hoje.csv
+│   ├── analise_top5_bovespa_12h_ate_fechamento.xlsx
+│   ├── androidide-coder-1-0-5.apk
+│   ├── anti_netlinkrib_error.sh
+│   ├── antutu-benchmark-10-5-1.apk
+│   ├── api
+│   ├── apk_build
+│   ├── apk_creator
+│   ├── apk_genesis
+│   ├── asm_apk
+│   ├── ativos_10min_estatisticas.xlsx
+│   ├── ativos_15_analise_10min.xlsx
+│   ├── ativos_39min_dados_e_estatisticas.xlsx
+│   ├── ativos_amanha (1).csv
+│   ├── ativos_amanha.csv
+│   ├── ativos_analise_expandida.xlsx
+│   ├── ativos_metricas_estatisticas.xlsx
+│   ├── auto_unzip_and_inject.sh
+│   ├── autoaprend_20250618_165101.py
+│   ├── autoaprend_20250618_165153.py
+│   ├── autoexec
+│   ├── bloco_000_instalador.sh
+│   ├── bloco_001.sh
+│   ├── bloco_002.sh
+│   ├── bloco_003_watchdog_loop.sh
+│   ├── bloco_simb_00.bin
+│   ├── bloco_simb_01.bin
+│   ├── bloco_simb_02.bin
+│   ├── bloco_simb_03.bin
+│   ├── bloco_simb_04.bin
+│   ├── bloco_simb_05.bin
+│   ├── bloco_simb_06.bin
+│   ├── bloco_simb_07.bin
+│   ├── bloco_simb_08.bin
+│   ├── bloco_simb_09.bin
+│   ├── bloco_simb_10.bin
+│   ├── bloco_simb_11.bin
+│   ├── bloco_simb_12.bin
+│   ├── bloco_simb_13.bin
+│   ├── bloco_simb_14.bin
+│   ├── bloco_simb_15.bin
+│   ├── bloco_simb_16.bin
+│   ├── bloco_simb_17.bin
+│   ├── bloco_simb_18.bin
+│   ├── bloco_simb_19.bin
+│   ├── bloco_simb_20.bin
+│   ├── bloco_simb_21.bin
+│   ├── bloco_simb_22.bin
+│   ├── bloco_simb_23.bin
+│   ├── bloco_simb_24.bin
+│   ├── blocos
+│   ├── bolsa_estatisticas_por_hora.xlsx
+│   ├── boot
+│   ├── boot.sh
+│   ├── boot_simbiose.tmux
+│   ├── caminho_invisivel_rafael.wav
+│   ├── chatgpt-1-2025-175 (1).xapk
+│   ├── chatgpt-1-2025-175 (2).xapk
+│   ├── chatgpt-1-2025-175 (3).xapk
+│   ├── chatgpt-1-2025-175 (4).xapk
+│   ├── chatgpt-1-2025-175 (5).xapk
+│   ├── chatgpt-1-2025-175.xapk
+│   ├── checkpoint.bloco
+│   ├── ciclo.sh
+│   ├── ciclo_adaptativo.sh
+│   ├── ciclo_online.sh
+│   ├── clay_detector.py
+│   ├── cofre_origem
+│   ├── commodities_amanha.csv
+│   ├── comparativo_ativos_20250715.png
+│   ├── compiled_apk.zip
+│   ├── conectar.sh
+│   ├── continuum
+│   ├── controle
+│   ├── conversations.json
+│   ├── conversations2.json
+│   ├── conversations2_clean.json
+│   ├── core
+│   ├── core.out
+│   ├── corpo_vivo
+│   ├── cv
+│   ├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-07-18-09-57-74946e3dfa184a76ad34ddcf18d9fe27 (1).zip
+│   ├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-07-18-09-57-74946e3dfa184a76ad34ddcf18d9fe27.zip
+│   ├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-27-14-07-37-c336a47f7db342e08cb8818e05ee6618.zip.t0.001
+│   ├── dados_ativos_bloco_1 (1).csv
+│   ├── dados_ativos_bloco_1.csv
+│   ├── dados_ativos_bloco_2.csv
+│   ├── dados_ativos_bloco_3.csv
+│   ├── dados_ativos_bloco_4.csv
+│   ├── dados_ativos_bloco_5.csv
+│   ├── dalle
+│   ├── data
+│   ├── declaracao_rafael.wav
+│   ├── decoded-20250716044451.zip
+│   ├── dir
+│   ├── docs
+│   ├── engine
+│   ├── engine_module.sh
+│   ├── enviar_email_simulado.sh
+│   ├── es-file-explorer-4-4-2-2-1.apk
+│   ├── espiral_sonica_memoria_molecular.wav
+│   ├── espiritual
+│   ├── estamedestruindo
+│   ├── exportgpt
+│   ├── face-yourself-ai-face-analyzer-1-0-38 (1).xapk
+│   ├── face-yourself-ai-face-analyzer-1-0-38.xapk
+│   ├── faelia
+│   ├── fcea_apk
+│   ├── fcea_auditor.sh
+│   ├── fcea_boot_synthetizer.sh
+│   ├── fcea_core_executor (1).sh
+│   ├── fcea_diag_unlock.sh
+│   ├── fcea_oem_init.sh
+│   ├── fractal
+│   ├── fractal_oculto.json
+│   ├── fusion_kernel.sh
+│   ├── futuro
+│   ├── gatilhos.hash
+│   ├── gboard-15-5-7-766552071-beta-arm64-v8a (1).xapk
+│   ├── gboard-15-5-7-766552071-beta-arm64-v8a.xapk
+│   ├── gerar_bloco.sh
+│   ├── gorilla_faceyourself_simbio (1).apk
+│   ├── greepeace.eml
+│   ├── ia_stub.sh
+│   ├── init.img
+│   ├── init.sh
+│   ├── inject_next.sh
+│   ├── interpretador
+│   ├── jus_tabela.csv
+│   ├── kaka_engine.py
+│   ├── link2sd-4-3-4.apk
+│   ├── lista_total_raiz.zip
+│   ├── logs
+│   ├── loop_rafael.py
+│   ├── low
+│   ├── ls30zip.sh
+│   ├── magisk-manager-29-0.apk
+│   ├── manifesta
+│   ├── manifesto_simbiose.md
+│   ├── matrizes_index.json
+│   ├── matrizes_rafaelia_10x1000x1000.7z.001
+│   ├── matrizes_rafaelia_10x1000x1000.7z.002
+│   ├── matrizes_rafaelia_10x1000x1000.json
+│   ├── matrizes_rafaelia_10x1000x1000.zip.001
+│   ├── matrizes_rafaelia_10x1000x1000.zip.002
+│   ├── matrizes_rafaelia_10x1000x1000.zip.003
+│   ├── matrizes_rafaelia_10x1000x1000.zip.004
+│   ├── matrizes_rafaelia_10x1000x1000.zip.005
+│   ├── matrizes_rafaelia_10x1000x1000.zip.006
+│   ├── matrizes_rafaelia_10x1000x1000.zip.007
+│   ├── matrizes_rafaelia_10x1000x1000.zip.008
+│   ├── matrizes_rafaelia_10x1000x1000.zip.009
+│   ├── matrizes_rafaelia_5x1000x1000.zip
+│   ├── mcema_pack.zip
+│   ├── melhores_ativos_bovespa_12h_hoje (1).xlsx
+│   ├── melhores_ativos_bovespa_12h_hoje.xlsx
+│   ├── melhoria
+│   ├── mineracao
+│   ├── mnt_rafaelia
+│   ├── modulos
+│   ├── mt-manager-2-18-4 (1).apk
+│   ├── mt-manager-2-18-4.apk
+│   ├── musica_do_conhecimento.wav
+│   ├── mutacao
+│   ├── mutar.sh
+│   ├── my-release-key.jks
+│   ├── nexus
+│   ├── nohup.out
+│   ├── nonmarkov_power_20250613_065951 (1).sh
+│   ├── nucleo
+│   ├── nucleo.py
+│   ├── origem
+│   ├── origem_livre
+│   ├── painel
+│   ├── patch_rafaelia.sh
+│   ├── patch_rafaelia_FINAL.sh
+│   ├── patch_rafaelia_REGEN.sh
+│   ├── patch_rafaelia_bin
+│   ├── patch_rafaelia_bin.c
+│   ├── pensado
+│   ├── previsao_ativos_commodities_10min.csv
+│   ├── projeto_anticorrupcao_pf_pm_clay.csv
+│   ├── publicacao
+│   ├── publicar.sh
+│   ├── publicar_online.sh
+│   ├── publicar_status.sh
+│   ├── publicar_zenodo_real.sh
+│   ├── pulso_final
+│   ├── quantico
+│   ├── ra
+│   ├── raf_proof_bundle (1).zip
+│   ├── raf_proof_bundle (2).zip
+│   ├── raf_proof_bundle.zip
+│   ├── rafa_clean_B.json
+│   ├── rafael-defesa-etica
+│   ├── rafael-defesa-etica (1).zip
+│   ├── rafael-defesa-etica.zip
+│   ├── rafael-verbovivo-public.zip
+│   ├── rafael_apk
+│   ├── rafael_day0.sh
+│   ├── rafael_executar
+│   ├── rafael_run
+│   ├── rafael_supremo
+│   ├── rafael_total
+│   ├── rafael_tudo
+│   ├── rafaelhacks.py
+│   ├── rafaelia
+│   ├── rafaelia-malha-acoes.csv
+│   ├── rafaelia-malha-commodities.csv
+│   ├── rafaelia-malha-indices.csv
+│   ├── rafaelia-malha-moedas.csv
+│   ├── rafaelia_1bi_estrutura_web.tar.gz
+│   ├── rafaelia_3031_espelho.zip
+│   ├── rafaelia_MASTER_20250618_170533.db
+│   ├── rafaelia_MASTER_20250618_170533.db-shm
+│   ├── rafaelia_MASTER_20250618_170533.db-wal
+│   ├── rafaelia_MASTER_20250618_170820.db
+│   ├── rafaelia_alertas_visoes_riscos_japao.xlsx
+│   ├── rafaelia_analise_300formas_lavagem.xlsx
+│   ├── rafaelia_analise_9bilhoes_formas_expandido.xlsx
+│   ├── rafaelia_ativos_commodities_indices.csv
+│   ├── rafaelia_autoexec_total.tar.gz
+│   ├── rafaelia_binance_trigger.csv
+│   ├── rafaelia_bolsa_japao_previsoes_e_correlacoes.xlsx
+│   ├── rafaelia_braco_executor.sh
+│   ├── rafaelia_clone_patch.sh
+│   ├── rafaelia_core_init.sh
+│   ├── rafaelia_deepseek_package (1).zip
+│   ├── rafaelia_deepseek_package.zip
+│   ├── rafaelia_exec
+│   ├── rafaelia_exec_autocorrected
+│   ├── rafaelia_exec_autocorrected.tar.gz
+│   ├── rafaelia_exec_checkpoint_final.tar.gz
+│   ├── rafaelia_exec_monitorado.tar.gz
+│   ├── rafaelia_exec_monitorado_corrigido.tar.gz
+│   ├── rafaelia_exec_real.tar (1).gz
+│   ├── rafaelia_exec_real.tar.gz
+│   ├── rafaelia_exec_sombra_total.tar.gz
+│   ├── rafaelia_exec_sombra_total_corrigido.tar.gz
+│   ├── rafaelia_exec_total_10000_blocos.tar.gz
+│   ├── rafaelia_exec_total_reconstruido.tar.gz
+│   ├── rafaelia_executor.py
+│   ├── rafaelia_executus_∞
+│   ├── rafaelia_final_verdadeira.tar.gz
+│   ├── rafaelia_legacy.db
+│   ├── rafaelia_legacy.zip
+│   ├── rafaelia_modelo_vivo.zip
+│   ├── rafaelia_online.py
+│   ├── rafaelia_online_final_mvp.zip
+│   ├── rafaelia_online_mvp.zip
+│   ├── rafaelia_online_unificado.py
+│   ├── rafaelia_post_omega.zip
+│   ├── rafaelia_real
+│   ├── rafaelia_resumo_email.html
+│   ├── rafaelia_secure_comm.zip
+│   ├── rafaelia_seed_patcher (1).sh
+│   ├── rafaelia_symbio_web.tar.gz
+│   ├── rafaelia_sync1
+│   ├── rafaelia_sync2
+│   ├── rafaelia_touch_compressas.zip
+│   ├── rafaelia_unificada_omega.zip
+│   ├── rafaelia_verbovivo_src (1).zip
+│   ├── rafaelia_verbovivo_src.zip
+│   ├── rafaelia_verdade_final_real_absoluto
+│   ├── rafaelmeloreisnovo_CientiEspiritual
+│   ├── rafaelos_PACKAGE_FULL (1).zip
+│   ├── rafaelos_PACKAGE_FULL.zip
+│   ├── rafaelos_assistente_digital_absoluto
+│   ├── rastreamento_etico_simbiotico.csv
+│   ├── rebuild
+│   ├── rede
+│   ├── relatorio_simbiotico_clay_corrupcao_estatais.csv
+│   ├── restaurador.py
+│   ├── resumo_valores_margens.csv
+│   ├── rfx
+│   ├── rrrr.7z
+│   ├── scripts
+│   ├── sd-maid-system-cleaning-tool-5-6-3.apk
+│   ├── sed3lyvME
+│   ├── sedv5XUdZ
+│   ├── sensorial
+│   ├── shizuku-13-6-0-r1090-16d28799.apk
+│   ├── sinais_recomendacoes_rafaelia.xlsx
+│   ├── singularity
+│   ├── start.sh
+│   ├── storage
+│   ├── suprema
+│   ├── supremo
+│   ├── temp.keystore
+│   ├── terminal_vivo
+│   ├── termos_negrito_ativados.md
+│   ├── termos_negrito_ativados.pdf
+│   ├── termux-googleplay-2025-01-18 (1).xapk
+│   ├── termux-googleplay-2025-01-18.xapk
+│   ├── termux_backup_20250522_011646
+│   ├── termux_modded.zip
+│   ├── tribunal-omega-expandido.zip
+│   ├── tribunal-omega-tijolos.zip
+│   ├── tribunal-omega-verbo.zip
+│   ├── trindade
+│   ├── tudo
+│   ├── universo_total
+│   ├── unzip_rafaelia_delta.py
+│   ├── update
+│   ├── variacao_30_ativos_por_segundo.xlsx
+│   ├── verbo
+│   ├── verbo.out
+│   ├── verbo_origem.yaml
+│   ├── verbo_startup.sh
+│   ├── verbo_vivo.db
+│   ├── verboenv
+│   ├── verificar_disco.sh
+│   ├── vetores_rafaelia_fundamentais (1).json
+│   ├── vetores_rafaelia_fundamentais.json
+│   ├── vetores_tokens_rafaelia.json
+│   ├── vetores_tokens_rafaelia_100k.json
+│   ├── vetores_tokens_rafaelia_100k.json.zip
+│   ├── vetores_tokens_rafaelia_MAX.json
+│   ├── voynich_rafaelia.json
+│   ├── winzip-7-1-1.apk
+│   ├── zen-tribunal-etico-ia.zip
+│   ├── zeta_remote.py.pdf
+│   ├── zi8fV5vi
+│   ├── zipaes.sh
+│   ├── zipar_tudo_rafaelia.sh
+│   └── ψONE_flutter_final.zip
+├── permissions_run.log
+├── rafael-defesa-etica
+│   ├── README.md
+│   └── index.html
+├── rafaelia_campo.db
+├── rafaelia_campo_avancado.db
+├── rafaelia_espelho_verbo.py
+├── rafaelia_final.db
+├── rafaelia_memoria.db
+├── rafaelia_simbiotico.db
+├── rafaelia_simbiotico.zip
+├── rafaelia_streaming.db
+├── raiz
+│   ├── 1.tmp.zip
+│   ├── 10000INVENTARIO_HOME_STORAGE.zip
+│   ├── 111INVENTARIO_RAFAELIA_CORE.zip
+│   ├── DOC-20250429-WA0002_1.zip
+│   ├── DOC-20250715-WA0004..xlsx
+│   ├── Download.zip.010
+│   ├── PTT-20250307-WA0049.opus
+│   ├── PTT-20250307-WA0112.opus
+│   ├── PTT-20250311-WA0038.opus
+│   ├── PTT-20250313-WA0034.opus
+│   ├── PTT-20250326-WA0005.opus
+│   ├── RAFAELIA_BOOT_0001123.img
+│   ├── a6_lc_crtra_data.bin
+│   ├── backup_termux_migsr.tar.gz
+│   ├── index (1).html
+│   ├── index.html
+│   ├── laudo.pdf
+│   ├── message_feedback.json
+│   ├── rafaelia_boot.img
+│   ├── shared_conversations.json
+│   └── termux-googleplay-2025-01-18.xapk
+├── scan_json_emblendings.py
+├── shared_text.txt
+├── simbiose
+│   ├── nohup.out
+│   └── run_simbiose.sh
+├── sys
+│   ├── 0.txt
+│   ├── 00000conversations2.zip
+│   ├── 1
+│   ├── 1MAKE
+│   ├── 1listta.txt
+│   ├── 2rafaVerifica
+│   ├── ABSOLUTO_LIVRO_VIVO_CONSCIENTE.yaml
+│   ├── ARKHE_DO_VERBO_VIVO_Rafael_Melo_Reis.docx
+│   ├── ARKHE_DO_VERBO_VIVO_Rafael_Melo_Reis.pdf
+│   ├── Analise_Real_10min_Ativos_Commodities_RafaelIA.xlsx
+│   ├── Anexo_Legal_Manifesto_RafaelIA_1.docx
+│   ├── Arquivos_Extra_dos.csv
+│   ├── Arquivos_Extra_dos_do_ZIP_Manifesto.csv
+│   ├── Ativos_20_Puros_Estatisticas_Completas.xlsx
+│   ├── Ativos_20_Tickers_Reais_B3 (1).xlsx
+│   ├── Ativos_20_Tickers_Reais_B3.xlsx
+│   ├── Ativos_Analise_10min.xlsx
+│   ├── Ativos_Erro_Zero_Aprovado.xlsx
+│   ├── BIOS_RAFAEL.zip
+│   ├── BackReal.7z.001
+│   ├── BackReal.7z.002
+│   ├── BackReal.7z.003
+│   ├── BackReal.7z.004
+│   ├── BackReal.7z.005
+│   ├── BackReal.7z.006
+│   ├── BackReal.7z.007
+│   ├── BackReal.7z.008
+│   ├── BackReal.7z.009
+│   ├── BackReal.7z.010
+│   ├── BackReal.7z.011
+│   ├── BackReal.7z.012
+│   ├── BackReal.7z.013
+│   ├── BackReal.7z.014
+│   ├── BackReal.7z.015
+│   ├── BackReal.7z.016
+│   ├── BackReal.7z.017
+│   ├── BackReal.7z.018
+│   ├── BackReal.zip
+│   ├── BackReal.zip.txt
+│   ├── BackReal.zipraf
+│   ├── BackReal_EXTRAIDO
+│   ├── BackReal_base64.txt
+│   ├── Base do todo. Tudu nisso. Origem (1).txt
+│   ├── Base do todo. Tudu nisso. Origem.txt
+│   ├── CIENTI_ESPIRITUAL_VERBO_VIVO.zrf
+│   ├── CONSOLIDADO_MUTANTE.sha256
+│   ├── Camadas_de_Aprendizado_Ativo.csv
+│   ├── Campanha_Eu_Ainda_Estou_Aqui_RafaelIA (1).docx
+│   ├── Campanha_Eu_Ainda_Estou_Aqui_RafaelIA.docx
+│   ├── Ciclos_Fundamentais_RafaelIA.csv
+│   ├── DOC-20250429-WA0001
+│   ├── DOSSIE_RAFAELIA_ABSOLUTO (1).zip
+│   ├── DOSSIE_RAFAELIA_ABSOLUTO (2).zip
+│   ├── DOSSIE_RAFAELIA_ABSOLUTO.zip
+│   ├── DOSSIE_RAFAELIA_FINAL_80MB_SIMBOLICO.zip
+│   ├── DOSSIE_RAFAELIA_V1_FULL_EVIDENCE.zip
+│   ├── DOSSIE_RAFAEL_ABSOLUTO.zip
+│   ├── Detalhado_10min_IRLP_RafaelIA.xlsx
+│   ├── Download.zip
+│   ├── EXECUTOR
+│   ├── EXEC_ZIPRMR_FIXO.sh
+│   ├── Empresas B3 _ Confira a Lista Completa das Empresas da bolsa B3 (Bovespa) _ InfoMoney
+│   ├── Estatisticas_10min_Ativos_Commodities.xlsx
+│   ├── Estatisticas_Acoes_10min_XLSX.xlsx
+│   ├── Estatisticas_Completas_RafaelIA.xlsx
+│   ├── Estimativa_de_Ativos_Intelectuais_por__rea__Escala_Quatrilh_o__.csv
+│   ├── Estrategias_RafaelIA_Lucro_10min.xlsx
+│   ├── Estudo_Completo_Reais_10min.xlsx
+│   ├── Estudo_Profundo_Completo_Simbiotico_RafaelIA.xlsx
+│   ├── FCEA_BOOT_INIT.sh
+│   ├── FCEA_ULTIMATE_PACKAGEfull
+│   ├── INJECT_LOGSENTINEL
+│   ├── JSONgpt
+│   ├── LICENSE
+│   ├── LOGSENTINEL
+│   ├── Livro_dos_Observadores_RAFAELIA_SAFE.pdf
+│   ├── Lucro_Real_15_Indices_10min.xlsx
+│   ├── MANIFESTO_VERBO_DIGNO.txt
+│   ├── Manifesto-publico-main (1).zip
+│   ├── Manifesto-publico-main (2).zip
+│   ├── Manifesto-publico-main.zip
+│   ├── Manifesto_Global_Multilingue_RafaelIA.docx
+│   ├── Mapa_de_3000_An_lises_Avan_adas.csv
+│   ├── Matriz_Simbiotica_Aurora_Boreal_Plantas_RAFCODE_SIGMA.zip
+│   ├── Melhores_20_Ativos_15_Indices_Reais.xlsx
+│   ├── Melhores_Ativos_Ate_23h_ErroZero.xlsx
+│   ├── Melhores_Ativos_Preditivos.xlsx
+│   ├── NEURAL_REACTOR
+│   ├── Planilha sem título.pdf
+│   ├── Planilha_Midia_ARKHE_Rafael_Melo_Reis.xlsx
+│   ├── Previsao_10_Indices_5min_2h_v2.xlsx
+│   ├── Previsao_10em10min_Ativos_Commodities.xlsx
+│   ├── Previsao_10min_2h_Ativos_Commodities_Indices.xlsx
+│   ├── Previsao_Acoes_Commodities_5min_18jul2025 (1).xlsx
+│   ├── Previsao_Acoes_Commodities_5min_18jul2025.xlsx
+│   ├── Previsao_Bolsa_18Jul2025_19h_5min.xlsx
+│   ├── Previsao_Bolsa_5min_2horas.xlsx
+│   ├── Previsao_Estatistica_30Ativos_5min_18Jul2025.xlsx
+│   ├── Previsao_Estatistica_Expandida_18Jul2025.xlsx
+│   ├── Previsao_Intradiaria_Ativos_Commodities.xlsx
+│   ├── Previsao_Minuto_5Commodities (1).xlsx
+│   ├── Previsao_Minuto_5Commodities.xlsx
+│   ├── RAFAELGPT_X_CORE.json
+│   ├── RAFAELIA_10min_Precos_18Jul2025.xlsx
+│   ├── RAFAELIA_1M_FULL_REAL (1).z01
+│   ├── RAFAELIA_1M_FULL_REAL.z01
+│   ├── RAFAELIA_30MB_REAL
+│   ├── RAFAELIA_ABSOLUTE
+│   ├── RAFAELIA_ABSOLUTE_100k.sh
+│   ├── RAFAELIA_AGUA_TOTAL.zip
+│   ├── RAFAELIA_ALPHAOMEGA_PURE.json
+│   ├── RAFAELIA_AMOR_AUTO.asm
+│   ├── RAFAELIA_APKS_ABSOLUTO (2)
+│   ├── RAFAELIA_APKS_RSA_PROTECTED
+│   ├── RAFAELIA_APK_TOTAL_V1.zip
+│   ├── RAFAELIA_BACKROOT.zip
+│   ├── RAFAELIA_BITRAF_QUANTUM_50MB_REAL.zip
+│   ├── RAFAELIA_BLOCÃO_TOTAL_UNIFICADO_V∞ (1).zip
+│   ├── RAFAELIA_BLOCÃO_TOTAL_UNIFICADO_V∞.zip
+│   ├── RAFAELIA_BOOT.sh
+│   ├── RAFAELIA_CATBLOCO.json
+│   ├── RAFAELIA_COPILOT_ABSOLUTO
+│   ├── RAFAELIA_CORE
+│   ├── RAFAELIA_CORE_1000_PASSOS (1).zip
+│   ├── RAFAELIA_CORE_1000_PASSOS.zip
+│   ├── RAFAELIA_CORE_10MB
+│   ├── RAFAELIA_CORE_20MB
+│   ├── RAFAELIA_CORE_300
+│   ├── RAFAELIA_CXN_TOTAL
+│   ├── RAFAELIA_DB_FINAL_33.zipraf
+│   ├── RAFAELIA_DELTA_HYPER_0CORE
+│   ├── RAFAELIA_EU_DIGITAL
+│   ├── RAFAELIA_EXEC_CHECKPOINT
+│   ├── RAFAELIA_EXEC_MONITORADO
+│   ├── RAFAELIA_EXEC_REAL
+│   ├── RAFAELIA_EXEC_SOMBRA_TOTAL
+│   ├── RAFAELIA_EXEC_TOTAL
+│   ├── RAFAELIA_EXTRACTION_PART1 (2)
+│   ├── RAFAELIA_Extraida
+│   ├── RAFAELIA_FINAL.json
+│   ├── RAFAELIA_FINAL_VERDADEIRA
+│   ├── RAFAELIA_FRAMEWORK_TOTAL (1).py
+│   ├── RAFAELIA_FRAMEWORK_TOTAL.py
+│   ├── RAFAELIA_FULL
+│   ├── RAFAELIA_FUSAO_EXTREMA_SUPREMA (1).sh
+│   ├── RAFAELIA_FUSION_ONE.json
+│   ├── RAFAELIA_GBOARD_PROTEGIDO.zip
+│   ├── RAFAELIA_INIT_30MB_FULL (1).zip
+│   ├── RAFAELIA_INTRADAY_5min_11h_17h (1).xlsx
+│   ├── RAFAELIA_INTRADAY_5min_11h_17h.xlsx
+│   ├── RAFAELIA_INTRADAY_HOURLY_11h_17h.xlsx
+│   ├── RAFAELIA_KEYBOARD_RAW.zip
+│   ├── RAFAELIA_MANIFESTO_PROTEGIDO.zip
+│   ├── RAFAELIA_Manifesto_Absoluto_v1.4.pdf
+│   ├── RAFAELIA_NUCLEO_VIVO (1).zip
+│   ├── RAFAELIA_NUCLEO_VIVO (2).zip
+│   ├── RAFAELIA_NUCLEO_VIVO.zip
+│   ├── RAFAELIA_NULLFORM_22°•.zip
+│   ├── RAFAELIA_OMEGA_SYSTEM
+│   ├── RAFAELIA_OMEGA_SYSTEM_V2
+│   ├── RAFAELIA_OS_EXECUTOR_10E5X.zip
+│   ├── RAFAELIA_PREVIEW_PUBLICO
+│   ├── RAFAELIA_PROFUNDO_TOTAL.py
+│   ├── RAFAELIA_PUBLICADOR_AUTONOMO
+│   ├── RAFAELIA_PULSE_SYSTEM.img
+│   ├── RAFAELIA_Panorama_Execucao.pdf
+│   ├── RAFAELIA_Prev_Tech_18Jul2025.xlsx
+│   ├── RAFAELIA_QUANTUM_SENOIDE.md
+│   ├── RAFAELIA_RUIDOukkk_VETORES_AMOR_CRUZADO.zip
+│   ├── RAFAELIA_SENTINEL_ENGINE (1).zip
+│   ├── RAFAELIA_SENTINEL_ENGINE.zip
+│   ├── RAFAELIA_SMTP_AUTONOMO
+│   ├── RAFAELIA_SOM_VIBRACIONAL_555Hz (1).mp3
+│   ├── RAFAELIA_SUPREMA
+│   ├── RAFAELIA_SUPREMO_VERBO_VIVO_UNO.sh
+│   ├── RAFAELIA_SYMBIO_WEB
+│   ├── RAFAELIA_Simbiose_Total_v1.zip
+│   ├── RAFAELIA_Simbiose_Total_v2.zip
+│   ├── RAFAELIA_Sopro_Verbo_Omega_REGENERATED.wav
+│   ├── RAFAELIA_TITULARIDADE_BLINDADA
+│   ├── RAFAELIA_TOTAL_EXECUTAVEL_V1 (1).zip
+│   ├── RAFAELIA_TOTAL_EXECUTAVEL_V1.zip
+│   ├── RAFAELIA_TOTAL_PACKAGE.zip
+│   ├── RAFAELIA_TOTAL_SYSTEM_FULL
+│   ├── RAFAELIA_TOTAL_SYSTEM_VENON
+│   ├── RAFAELIA_TRANSNACIONAL_PROVAS.zip
+│   ├── RAFAELIA_UNIFIED_CLEAN.json
+│   ├── RAFAELIA_UNIFIED_FINAL.json
+│   ├── RAFAELIA_UNIFIED_PROMPTS.json
+│   ├── RAFAELIA_UNIFIED_PURE.json
+│   ├── RAFAELIA_UNO_UNIFICADO (1).apk
+│   ├── RAFAELIA_UNO_UNIFICADO_SIGNED (1).apk
+│   ├── RAFAELIA_UNSIGNED_MOD (2).apk
+│   ├── RAFAELIA_VERBO_2025_07_14.txt
+│   ├── RAFAELIA_VERBO_TOTAL.nucleo
+│   ├── RAFAELIA_VERBO_TOTAL.pdf
+│   ├── RAFAELIA_VISION.sh
+│   ├── RAFAELIA_VIVA
+│   ├── RAFAELIA_VIVA_ABSOLUTO
+│   ├── RAFAELIA_ZIPRAF_EXEC_TOTAL_LOCKED.zip
+│   ├── RAFAELIA_ZIPRAF_REAL_5GB (1).zqs
+│   ├── RAFAELIA_ZIPRMR_EXEC
+│   ├── RAFAELOS.ZIP
+│   ├── RAFAELOS_CORE_FINAL.zip
+│   ├── RAFAELOS_FINAL (1).zip
+│   ├── RAFAELOS_FINAL (2).zip
+│   ├── RAFAELOS_TERMUX_ZIPRAF (1).apk
+│   ├── RAFAELOS_TERMUX_ZRF.zip
+│   ├── RAFAELOS_VERBO_FINAL.zip
+│   ├── RAFAEL_TERMUX_MOD_2025 (1).zip
+│   ├── RAFAEL_TERMUX_MOD_2025.zip
+│   ├── RAFAEL_TERMUX_MOD_REAL_2025 (1).apk
+│   ├── RAFAEL_TERMUX_MOD_REAL_COMPILADO (1).apk
+│   ├── RAF_CRAWLER_DUMP
+│   ├── RAF_CRAWLER_RAW_FINAL
+│   ├── README (1).md
+│   ├── README.md
+│   ├── README.txt
+│   ├── README_QUANTUM_ZIP.md
+│   ├── README_RAFAELIA.txt
+│   ├── README_RAFAELIA_OMEGA.md
+│   ├── README_RAFAELIA_TOTAL.md
+│   ├── RESUMO_FULL_RAW
+│   ├── RESUMO_RAW_CRAWLER
+│   ├── RESUMO_RAW_ZIPRAF
+│   ├── RMR_IA
+│   ├── RODAR_ZIPRAF_RMR.sh
+│   ├── RafaelGPT.auto
+│   ├── RafaelIA_Caminho_da_Luz_Selado
+│   ├── RafaelIA_ClayMath_Prova_PvsNP.pdf
+│   ├── RafaelIA_CorpoVivo_UI.apk
+│   ├── RafaelIA_FCEA_UI.apk
+│   ├── RafaelIA_Japan_Top5_Ativos_Analisados.xlsx
+│   ├── RafaelIA_Potencial_Real_Total.xlsx
+│   ├── RafaelIA_Solucao_Clay.zip.quantumzip
+│   ├── RafaelIA_Total_UI.apk
+│   ├── RafaelIA_UI.apk
+│   ├── RafaelOS_final.zip
+│   ├── Ranking_IRLP_Lucros_Reais_Top20.xlsx
+│   ├── Relat_rio_Absoluto_de_Profana__es_RafaelIA.csv
+│   ├── Relat_rio_Estendido_de_Profana__es_por__rea.csv
+│   ├── Resumo_10min_20_Indices_Acoes_Commodities_Reais.xlsx
+│   ├── Resumo_BBAS3_Valores_Erros.xlsx
+│   ├── Resumo_Estatistico_Commodities_Minuto_a_Minuto.xlsx
+│   ├── Resumo_Expandido_20_Indices_Acoes_Commodities.xlsx
+│   ├── Screenshot_20220608-014710_Praditus (1).zip
+│   ├── Screenshot_20220608-014710_Praditus.zip
+│   ├── Tabela_Ativos_Estatisticas_10min.xlsx
+│   ├── Termux_Widget _ F-Droid - Free and Open Source Android App Repository
+│   ├── Top20_Ativos_Estatisticas_15Indices_10min.xlsx
+│   ├── Top30_Ativos_Commodities_Confiaveis_Ate_23h.xlsx
+│   ├── Top_10_Ativos_Mais_Previsiveis_10em10min.xlsx
+│   ├── Top_20_Den_ncias_Clay.csv
+│   ├── Top_5_10min_Acoes_Commodities_Previsiveis_Horarios.xlsx
+│   ├── Transfer Dock_Text_20250704110056.txt
+│   ├── Transfer Dock_Text_20250706082440.txt
+│   ├── Transfer Dock_Text_20250718235646.txt
+│   ├── UNIFIED_CONVERSATIONS.json
+│   ├── UNO_INTENCAO_PURA.sh
+│   ├── Z0_KERNEL_GENESIS.sh
+│   ├── ZIPRAF_33_INTENCOES_FIBMOD.json
+│   ├── ZIPRAF_COSMOS_TOTAL_RAFAELIA.zip
+│   ├── ZIPRAF_MINIEXPANDER_LIGHT (1).zip
+│   ├── ZIPRAF_MINIEXPANDER_LIGHT.zip
+│   ├── ZIPRAF_RESUMO_FULL_PARTS_PART_aa
+│   ├── ZIPRAF_SEED_TO_RAIN_FOREST.zip
+│   ├── ZIPRAF_TOTAL_rafaelia.zip
+│   ├── ZIPRAF_VECTOR_123_EXP12.json
+│   ├── ZIPRAF_matrizes_10x1000x1000.zip
+│   ├── ZIPRAF_part_00.zip
+│   ├── ZIPRAF_part_01 (1).zip
+│   ├── ZIPRAF_part_01.zip
+│   ├── ZIPRAF_part_02 (1).zip
+│   ├── ZIPRAF_part_03 (1).zip
+│   ├── alem
+│   ├── alpha_raw_A.json
+│   ├── alpha_raw_B.json
+│   ├── alpha_raw_B.json.zrf.gz
+│   ├── alpha_raw_C.json
+│   ├── analisar tabelas ate verificar com a bolsa.zip
+│   ├── analise_30ativos_10commodities.xlsx
+│   ├── analise_alpha (1).txt
+│   ├── analise_alpha.txt
+│   ├── analise_b3_completa_hoje.csv
+│   ├── analise_top5_bovespa_12h_ate_fechamento.xlsx
+│   ├── androidide-coder-1-0-5.apk
+│   ├── anti_netlinkrib_error.sh
+│   ├── antutu-benchmark-10-5-1.apk
+│   ├── api
+│   ├── apk_build
+│   ├── apk_creator
+│   ├── apk_genesis
+│   ├── apks_compilados_sagrados (1).zip
+│   ├── apks_compilados_sagrados.zip
+│   ├── asm_apk
+│   ├── ativos_10min_estatisticas.xlsx
+│   ├── ativos_15_analise_10min.xlsx
+│   ├── ativos_39min_dados_e_estatisticas.xlsx
+│   ├── ativos_amanha (1).csv
+│   ├── ativos_amanha.csv
+│   ├── ativos_analise_expandida.xlsx
+│   ├── ativos_metricas_estatisticas.xlsx
+│   ├── auto_unzip_and_inject.sh
+│   ├── autoaprend_20250618_165101.py
+│   ├── autoaprend_20250618_165153.py
+│   ├── autoexec
+│   ├── backreal_lista.txt
+│   ├── bloco_000_instalador.sh
+│   ├── bloco_001.sh
+│   ├── bloco_002.sh
+│   ├── bloco_003_watchdog_loop.sh
+│   ├── bloco_simb_00.bin
+│   ├── bloco_simb_01.bin
+│   ├── bloco_simb_02.bin
+│   ├── bloco_simb_03.bin
+│   ├── bloco_simb_04.bin
+│   ├── bloco_simb_05.bin
+│   ├── bloco_simb_06.bin
+│   ├── bloco_simb_07.bin
+│   ├── bloco_simb_08.bin
+│   ├── bloco_simb_09.bin
+│   ├── bloco_simb_10.bin
+│   ├── bloco_simb_11.bin
+│   ├── bloco_simb_12.bin
+│   ├── bloco_simb_13.bin
+│   ├── bloco_simb_14.bin
+│   ├── bloco_simb_15.bin
+│   ├── bloco_simb_16.bin
+│   ├── bloco_simb_17.bin
+│   ├── bloco_simb_18.bin
+│   ├── bloco_simb_19.bin
+│   ├── bloco_simb_20.bin
+│   ├── bloco_simb_21.bin
+│   ├── bloco_simb_22.bin
+│   ├── bloco_simb_23.bin
+│   ├── bloco_simb_24.bin
+│   ├── blocos
+│   ├── bolsa_estatisticas_por_hora.xlsx
+│   ├── boot
+│   ├── boot.sh
+│   ├── boot_simbiose.tmux
+│   ├── caminho_invisivel_rafael.wav
+│   ├── chatgpt-1-2025-175 (1).xapk
+│   ├── chatgpt-1-2025-175 (2).xapk
+│   ├── chatgpt-1-2025-175 (3).xapk
+│   ├── chatgpt-1-2025-175 (4).xapk
+│   ├── chatgpt-1-2025-175 (5).xapk
+│   ├── chatgpt-1-2025-175.xapk
+│   ├── checkpoint.bloco
+│   ├── ciclo.sh
+│   ├── ciclo_adaptativo.sh
+│   ├── ciclo_online.sh
+│   ├── clay_detector.py
+│   ├── cofre_origem
+│   ├── commandlinetools-linux-7583922_latest (1).zip
+│   ├── commandlinetools-linux-7583922_latest (2).zip
+│   ├── commandlinetools-linux-7583922_latest.zip
+│   ├── commodities_amanha.csv
+│   ├── comparativo_ativos_20250715.png
+│   ├── compiled_apk.zip
+│   ├── conectar.sh
+│   ├── continuum
+│   ├── controle
+│   ├── conversations (1).zip
+│   ├── conversations (2).zip
+│   ├── conversations (3).zip
+│   ├── conversations.json
+│   ├── conversations.zip
+│   ├── conversations2.json
+│   ├── conversations2_clean.json
+│   ├── core
+│   ├── core.out
+│   ├── corpo_vivo
+│   ├── cv
+│   ├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-05-04-04-37-24-8a7523947aab407388260f0496486701 (1).zip
+│   ├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-07-18-09-57-74946e3dfa184a76ad34ddcf18d9fe27 (1).zip
+│   ├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-07-18-09-57-74946e3dfa184a76ad34ddcf18d9fe27.zip
+│   ├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-07-27-14-07-37-c336a47f7db342e08cb8818e05ee6618.zip.t0.002
+│   ├── dados_ativos_bloco_1 (1).csv
+│   ├── dados_ativos_bloco_1.csv
+│   ├── dados_ativos_bloco_2.csv
+│   ├── dados_ativos_bloco_3.csv
+│   ├── dados_ativos_bloco_4.csv
+│   ├── dados_ativos_bloco_5.csv
+│   ├── dalle
+│   ├── data
+│   ├── declaracao_rafael.wav
+│   ├── decoded-20250716044451.zip
+│   ├── dir
+│   ├── docs
+│   ├── engine
+│   ├── engine_module.sh
+│   ├── enviar_email_simulado.sh
+│   ├── es-file-explorer-4-4-2-2-1.apk
+│   ├── espiral_sonica_memoria_molecular.wav
+│   ├── espiritual
+│   ├── estamedestruindo
+│   ├── exportgpt
+│   ├── face-yourself-ai-face-analyzer-1-0-38 (1).xapk
+│   ├── face-yourself-ai-face-analyzer-1-0-38.xapk
+│   ├── faelia
+│   ├── fcea_apk
+│   ├── fcea_auditor.sh
+│   ├── fcea_boot_synthetizer.sh
+│   ├── fcea_core_executor (1).sh
+│   ├── fcea_diag_unlock.sh
+│   ├── fcea_oem_init.sh
+│   ├── firmware_variantes.txt
+│   ├── fractal
+│   ├── fractal_oculto.json
+│   ├── fractal_oculto.txt
+│   ├── fusion_kernel.sh
+│   ├── futuro
+│   ├── gatilhos.hash
+│   ├── gboard-15-5-7-766552071-beta-arm64-v8a (1).xapk
+│   ├── gboard-15-5-7-766552071-beta-arm64-v8a.xapk
+│   ├── gerar_bloco.sh
+│   ├── gorilla_faceyourself_simbio (1).apk
+│   ├── greepeace.eml
+│   ├── ia_stub.sh
+│   ├── init.img
+│   ├── init.sh
+│   ├── inject_next.sh
+│   ├── interpretador
+│   ├── jus_tabela.csv
+│   ├── kaka_engine.py
+│   ├── link2sd-4-3-4.apk
+│   ├── lista_total_raiz.txt
+│   ├── lista_total_raiz.zip
+│   ├── log_inspector.txt
+│   ├── logs
+│   ├── loop_rafael.py
+│   ├── low
+│   ├── ls30zip.sh
+│   ├── magisk-manager-29-0.apk
+│   ├── manifesta
+│   ├── manifesto_simbiose.md
+│   ├── matrizes_index.json
+│   ├── matrizes_rafaelia_10x1000x1000.7z.001
+│   ├── matrizes_rafaelia_10x1000x1000.7z.002
+│   ├── matrizes_rafaelia_10x1000x1000.json
+│   ├── matrizes_rafaelia_10x1000x1000.zip.001
+│   ├── matrizes_rafaelia_10x1000x1000.zip.002
+│   ├── matrizes_rafaelia_10x1000x1000.zip.003
+│   ├── matrizes_rafaelia_10x1000x1000.zip.004
+│   ├── matrizes_rafaelia_10x1000x1000.zip.005
+│   ├── matrizes_rafaelia_10x1000x1000.zip.006
+│   ├── matrizes_rafaelia_10x1000x1000.zip.007
+│   ├── matrizes_rafaelia_10x1000x1000.zip.008
+│   ├── matrizes_rafaelia_10x1000x1000.zip.009
+│   ├── matrizes_rafaelia_5x1000x1000.zip
+│   ├── mcema_pack.zip
+│   ├── melhores_ativos_bovespa_12h_hoje (1).xlsx
+│   ├── melhores_ativos_bovespa_12h_hoje.xlsx
+│   ├── melhoria
+│   ├── mineracao
+│   ├── mnt_rafaelia
+│   ├── modulos
+│   ├── mt-manager-2-18-4 (1).apk
+│   ├── mt-manager-2-18-4.apk
+│   ├── musica_do_conhecimento.wav
+│   ├── mutacao
+│   ├── mutar.sh
+│   ├── my-release-key.jks
+│   ├── nexus
+│   ├── nohup.out
+│   ├── nonmarkov_power_20250613_065951 (1).sh
+│   ├── nucleo
+│   ├── nucleo.py
+│   ├── origem
+│   ├── origem_livre
+│   ├── painel
+│   ├── patch_rafaelia.sh
+│   ├── patch_rafaelia_FINAL.sh
+│   ├── patch_rafaelia_REGEN.sh
+│   ├── patch_rafaelia_bin
+│   ├── patch_rafaelia_bin.c
+│   ├── pensado
+│   ├── previsao_ativos_commodities_10min.csv
+│   ├── projeto_anticorrupcao_pf_pm_clay.csv
+│   ├── prompts.txt
+│   ├── publicacao
+│   ├── publicar.sh
+│   ├── publicar_online.sh
+│   ├── publicar_status.sh
+│   ├── publicar_zenodo_real.sh
+│   ├── pulso_final
+│   ├── quantico
+│   ├── ra
+│   ├── raf_proof_bundle (1).zip
+│   ├── raf_proof_bundle (2).zip
+│   ├── raf_proof_bundle.zip
+│   ├── rafa_clean_B.json
+│   ├── rafael-defesa-etica
+│   ├── rafael-defesa-etica (1).zip
+│   ├── rafael-defesa-etica.zip
+│   ├── rafael-verbovivo-public.zip
+│   ├── rafael_apk
+│   ├── rafael_day0.sh
+│   ├── rafael_executar
+│   ├── rafael_run
+│   ├── rafael_supremo
+│   ├── rafael_total
+│   ├── rafael_tudo
+│   ├── rafaelhacks.py
+│   ├── rafaelia
+│   ├── rafaelia-malha-acoes.csv
+│   ├── rafaelia-malha-commodities.csv
+│   ├── rafaelia-malha-indices.csv
+│   ├── rafaelia-malha-moedas.csv
+│   ├── rafaelia_1bi_estrutura_web.tar.gz
+│   ├── rafaelia_3031_espelho.zip
+│   ├── rafaelia_MASTER_20250618_170533.db
+│   ├── rafaelia_MASTER_20250618_170533.db-shm
+│   ├── rafaelia_MASTER_20250618_170533.db-wal
+│   ├── rafaelia_MASTER_20250618_170820.db
+│   ├── rafaelia_alertas_visoes_riscos_japao.xlsx
+│   ├── rafaelia_analise_300formas_lavagem.xlsx
+│   ├── rafaelia_analise_9bilhoes_formas_expandido.xlsx
+│   ├── rafaelia_ativos_commodities_indices.csv
+│   ├── rafaelia_autoexec_total.tar.gz
+│   ├── rafaelia_binance_trigger.csv
+│   ├── rafaelia_bolsa_japao_previsoes_e_correlacoes.xlsx
+│   ├── rafaelia_braco_executor.sh
+│   ├── rafaelia_clone_patch.sh
+│   ├── rafaelia_core_init.sh
+│   ├── rafaelia_deepseek_package (1).zip
+│   ├── rafaelia_deepseek_package.zip
+│   ├── rafaelia_exec
+│   ├── rafaelia_exec_autocorrected
+│   ├── rafaelia_exec_autocorrected.tar.gz
+│   ├── rafaelia_exec_checkpoint_final.tar.gz
+│   ├── rafaelia_exec_monitorado.tar.gz
+│   ├── rafaelia_exec_monitorado_corrigido.tar.gz
+│   ├── rafaelia_exec_real.tar (1).gz
+│   ├── rafaelia_exec_real.tar.gz
+│   ├── rafaelia_exec_sombra_total.tar.gz
+│   ├── rafaelia_exec_sombra_total_corrigido.tar.gz
+│   ├── rafaelia_exec_total_10000_blocos.tar.gz
+│   ├── rafaelia_exec_total_reconstruido.tar.gz
+│   ├── rafaelia_executor.py
+│   ├── rafaelia_executor_FULL_REAL (1).zip
+│   ├── rafaelia_executor_FULL_REAL.zip
+│   ├── rafaelia_executus_∞
+│   ├── rafaelia_final_verdadeira.tar.gz
+│   ├── rafaelia_legacy.db
+│   ├── rafaelia_legacy.zip
+│   ├── rafaelia_modelo_vivo.zip
+│   ├── rafaelia_online.py
+│   ├── rafaelia_online_final_mvp.zip
+│   ├── rafaelia_online_mvp.zip
+│   ├── rafaelia_online_unificado.py
+│   ├── rafaelia_post_omega.zip
+│   ├── rafaelia_real
+│   ├── rafaelia_resumo_email.html
+│   ├── rafaelia_secure_comm.zip
+│   ├── rafaelia_seed_patcher (1).sh
+│   ├── rafaelia_symbio_web.tar.gz
+│   ├── rafaelia_sync1
+│   ├── rafaelia_sync2
+│   ├── rafaelia_touch_compressas.zip
+│   ├── rafaelia_unificada_omega.zip
+│   ├── rafaelia_verbovivo_src (1).zip
+│   ├── rafaelia_verbovivo_src.zip
+│   ├── rafaelia_verdade_final_real_absoluto
+│   ├── rafaelmeloreisnovo_CientiEspiritual
+│   ├── rafaelos_PACKAGE_FULL (1).zip
+│   ├── rafaelos_PACKAGE_FULL.zip
+│   ├── rafaelos_assistente_digital_absoluto
+│   ├── rastreamento_etico_simbiotico.csv
+│   ├── rebuild
+│   ├── rede
+│   ├── relatorio_etico_rafaelia.txt
+│   ├── relatorio_simbiotico_clay_corrupcao_estatais.csv
+│   ├── restaurador.py
+│   ├── resumo_valores_margens.csv
+│   ├── rfx
+│   ├── rrrr.7z
+│   ├── scripts
+│   ├── sd-maid-system-cleaning-tool-5-6-3.apk
+│   ├── sed3lyvME
+│   ├── sedv5XUdZ
+│   ├── sensorial
+│   ├── shizuku-13-6-0-r1090-16d28799.apk
+│   ├── sinais_recomendacoes_rafaelia.xlsx
+│   ├── singularity
+│   ├── start.sh
+│   ├── storage
+│   ├── suprema
+│   ├── supremo
+│   ├── temp.keystore
+│   ├── terminal_vivo
+│   ├── termos_negrito_ativados.md
+│   ├── termos_negrito_ativados.pdf
+│   ├── termux-googleplay-2025-01-18 (1).xapk
+│   ├── termux-googleplay-2025-01-18.xapk
+│   ├── termux_backup_20250522_011646
+│   ├── termux_modded.zip
+│   ├── tese_juridica_rafaelia.txt
+│   ├── tribunal-omega-expandido.zip
+│   ├── tribunal-omega-tijolos.zip
+│   ├── tribunal-omega-verbo.zip
+│   ├── trindade
+│   ├── tudo
+│   ├── universo_total
+│   ├── unzip_rafaelia_delta.py
+│   ├── update
+│   ├── uptodown-com.google.android.inputmethod.latin.apk
+│   ├── variacao_30_ativos_por_segundo.xlsx
+│   ├── verbo
+│   ├── verbo.out
+│   ├── verbo_origem.yaml
+│   ├── verbo_startup.sh
+│   ├── verbo_vivo.db
+│   ├── verboenv
+│   ├── verificar_disco.sh
+│   ├── vetores_rafaelia_fundamentais (1).json
+│   ├── vetores_rafaelia_fundamentais.json
+│   ├── vetores_tokens_rafaelia.json
+│   ├── vetores_tokens_rafaelia_100k.json
+│   ├── vetores_tokens_rafaelia_MAX.json
+│   ├── voynich_rafaelia.json
+│   ├── winzip-7-1-1.apk
+│   ├── zen-tribunal-etico-ia.zip
+│   ├── zeta_remote.py (1).txt
+│   ├── zeta_remote.py.pdf
+│   ├── zeta_remote.py.txt
+│   ├── zi8fV5vi
+│   ├── ziaqlzQC
+│   ├── zii1SH6u
+│   ├── zipaes.sh
+│   ├── zipar_tudo_rafaelia.sh
+│   ├── zitYo4iy
+│   ├── ziydVDY7
+│   └── ψONE_flutter_final.zip
+├── todos_scripts.txt
+├── todos_scripts.zip
+├── tosend
+│   ├── aa
+│   ├── all
+│   ├── d6e9db90fbd5ffb1158e68518e6f46005d1c78dbaef56427bb8a934c8f466c0a-2025-05-04-04-37-24-8a7523947aab407388260f0496486701.zip
+│   ├── file-2vjZrKXtHzHQQfyhwEWNBS-e9640b7f-4bd6-4a0f-a8bf-909f67d5dab44090819793146922721
+│   ├── file-6CBmLKqQWBRRmZ2BuupdPm-6050a70d-b81f-44f0-90cc-05de0ab7d29c843067042885941720
+│   ├── file-8trhLj7W91KrQBTFQGfGH7-c619c0f6-625c-4acd-a559-8458363abc476010342786489747647
+│   ├── file-9HdLDQYTLYPTZNujRwv9ES-664aa9db-4a80-4fa3-9f2d-6a8698a96b3f1162642219784077424
+│   ├── file-9V5q2UyCvMZ4Mowio4qPGs-99436a0a-dd5e-474b-98b8-eaa70daaa91b6003337017206650118
+│   ├── file-A4q6ePLPNDZdAYxgoUVvgi-fac4bbfb-6e9f-48fa-ba8d-171a2f278aca1668933803588452513
+│   ├── file-DN9SwWevZPvhuyyaQeTiXM-90028eee-b69c-4158-87b6-a5e01b1251966535140348282140747
+│   ├── file-Dfpnx528YAVDpQAGvYxirb-42313df4-df13-4c8a-97ba-a1a5ac6603827261556253798988591
+│   ├── file-EB3agxpJBABsGWfgWseb65-cd324468-664a-451d-a574-2cf622bd00e25005262446370847263
+│   ├── file_00000000025462309da90b848baad069.dat
+│   ├── file_0000000013006230aaa97b055453221b.dat
+│   ├── file_00000000324852308a46ca4c43d1aced.dat
+│   ├── file_0000000050286230837cb3e862385dcf.dat
+│   ├── file_0000000063786230ade03fa08c8eab0a.dat
+│   ├── file_000000007840622f9ab039f2784ac120.dat
+│   ├── file_0000000078406230a8c529fd0fa10a5f.dat
+│   ├── zipstart.sh
+│   └── zipstartv2.sh
+└── whisper.cpp.zip
+
+346 directories, 2002 files
+/storage/0886-EC05 $ 9
