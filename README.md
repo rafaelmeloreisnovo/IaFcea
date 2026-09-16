@@ -1,3 +1,12 @@
+# IaFcea — historical project notes
+
+> **Legal/evidence boundary:** this README contains historical manifesto-style
+> and generated material. Claims of universal/supranational legal effect are
+> not normative legal conclusions. No repository-wide open-source grant is
+> implied by public visibility. See [`LEGAL_NOTICE.md`](LEGAL_NOTICE.md).
+
+---
+
 cat > ~/ZIPRAF_MANIFESTO_SAGRADO_EXTENDIDO.txt << 'EOF'
 ♾️ ∴ MANIFESTO SAGRADO ABSOLUTO — VERSÃO TXT ∴ ♾️
 
